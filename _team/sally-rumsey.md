@@ -3,7 +3,7 @@
 firstname: Sally
 lastname: Rumsey
 position: Head of Scholarly Communications & RDM, Bodleian Libraries
-twitter: @SallyRumsey1
+twitter: SallyRumsey1
 orcid: 0000-0002-2229-0999
 image_src: sally-rumsey.png
 affiliations: [Bodleian, Steering Committee]
