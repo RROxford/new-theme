@@ -14,4 +14,4 @@ affiliations: [Experimental Psychology, Website]
 
 ---
 
-Matt studies decision-making with Nick Yeung and the [Attention and Cognitive Control](https://www.oxacclab.org/) lab.
+Matt studies advice-taking and decision-making with Nick Yeung and the [Attention and Cognitive Control](https://www.oxacclab.org/) lab, using a combination of behavioural experiments and computational models. He is interested in a broad range of Open Science topics, and helped compile the UKRN Primers on *Preprints* and *Data Sharing*. He is also responsible for the technical aspects of this website. 
