@@ -12,21 +12,17 @@ You can also find people by [project group]({{ "/all_groups" | relative_url }}) 
 
 <div class="initial-content person-card-columns" id="accordion">
   {% assign people = site.team | sort_natural: 'lastname' %}
+  {% for person in people %}
+    {% unless person.retired %}
+        {% include person_card person=person %}
+    {% endunless %}
+  {% endfor %}
   
   {% for person in people %}
-    {% if person.retired %}
-        {% assign peopleRtd = peopleRtd | concat: person | concat: "," %}
-    {% else %}
-        {% assign peopleCur = peopleCur | concat: person | concat: "," %}
-    {% endif %}
-  {% endfor %}
-  
-  {% for person in peopleCur %}
-    {% include person_card person=person %}
-  {% endfor %}
-  {% for person in peopleRtd %}
-    {% include person_card person=person %}
-  {% endfor %}  
+      {% if person.retired %}
+          {% include person_card person=person %}
+      {% endif %}
+    {% endfor %}
 </div>
 
 {% assign groupArray = "a, b, c" | split: ", " %}
