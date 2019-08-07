@@ -18,7 +18,7 @@ information about research data policy.
 [Open Access Oxford](http://openaccess.ox.ac.uk) has useful resources on open
 access publishing.
 {: .text-justify}
-* OAO have recently released [case studies](
+* The OAO website hosts the Bodleian Libraries' recently released [case studies](
 http://openaccess.ox.ac.uk/2019/07/22/open-scholarship-at-oxford-case-studies/ 
 ) of open scholarship at Oxford across each of the four university Divisions [August 2019].
 {: .text-justify}
