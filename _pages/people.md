@@ -5,10 +5,12 @@ description: Key people involved in ReproducibleResearchOxford
 permalink: /people/
 type: page
 ---
----
-Below you can find information on many people involved in reproducible research at Oxford. Click on a person to see more detailed information about them.
 
-You can also find people by [project group]({{ "/all_groups" | relative_url }}) or [affiliation]({{ "/all_affiliations" | relative_url }}).
+RROx is run by a Steering Group and several others who lead on
+specific [initiatives]({{ "/all_groups" | relative_url }}).
+
+You can also see who is involved by [affiliation]({{
+"/all_affiliations" | relative_url }}).
 
 <div class="initial-content person-card-columns" id="accordion">
   {% assign people = site.team | sort_natural: 'lastname' %}
