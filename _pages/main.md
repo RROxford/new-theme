@@ -30,11 +30,26 @@ body {
 </style>
 
 <div class="container">
-  <p>Reproducible Research Oxford is a project based at the <a href="https://www.ox.ac.uk/">University of
-  Oxford</a>. We are the local branch of the <a href="http://ukrn.org/">UK Reproducibility Network</a> and
-  aim to lay the groundwork for a culture of reproducibility and open
-  research practices in Oxford.</p>
-  <p>To that purpose, we organise <a href="{{ '/initiatives' | relative_url }}">initiatives</a>, and
-  have set up a network of <a href="{{ '/people' | relative_url }}">ambassadors</a> who provide information and initiate conversation on these issues at their departments. We also maintain a list of helpful <a href="{{ '/resources' | relative_url }}">resources</a>.</p>
-  <p>If you're affiliated with Oxford and are interested in reproducible research, <a href="{{ '/get-involved' | relative_url }}">join us</a>!</p>
+  <p>Welcome to Reproducible Research Oxford (RROx for short,
+  pronounced "rocks")!</p>
+
+  <p>RROx is the local network of
+  <a href="http://ukrn.org/">UKRN</a>, the UK Reproducibility Network,
+  at the <a href="https://www.ox.ac.uk/">University of Oxford</a>. We
+  are a University-wide initiative focused on advancing the open
+  research agenda at Oxford. The overarching goal is to promote a
+  coordinated approach to open scholarship and research
+  reproducibility that extends to all disciplines.</p>
+  
+  <p>Our <a href="{{ '/people' | relative_url }}">Steering Group</a>
+  works with key stakeholders across the University towards this
+  goal. We also organize and support several <a href="{{
+  '/initiatives' | relative_url }}">initiatives</a> throughout the
+  year, and we maintain a list of relevant <a href="{{ '/resources' |
+  relative_url }}">resources</a> at Oxford and beyond.</p>
+
+  <p>If you are based in Oxford and are interested in open scholarship
+  and research reproducibility, please <a href="{{ '/get-involved' |
+  relative_url }}">get in touch</a>!</p>
+  
 </div>
