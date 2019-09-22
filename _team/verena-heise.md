@@ -8,7 +8,7 @@ website: https://www.ndph.ox.ac.uk/team/verena-heise
 orcid: 0000-0002-5625-4128
 osf: https://osf.io/zacmy/
 email: verena.heise@ndph.ox.ac.uk
-affiliations: [Big Data Institute, Nuffield Department of Population Health, Wellcome Centre for Integrative Neuroimaging, Steering Committee]
+affiliations: [Big Data Institute, Nuffield Department of Population Health, Wellcome Centre for Integrative Neuroimaging, Steering Group, Medical Sciences Division]
 groups: [Oxford-Berlin Summer School]
 ---
 

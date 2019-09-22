@@ -7,7 +7,7 @@ image_src: lisa-lodwick.png
 website: https://www.asc.ox.ac.uk/person/3377
 twitter: LisaLodwick
 orcid: 0000-0002-0473-2589
-affiliations: [All Souls College, Archaeology]
+affiliations: [All Souls College, Archaeology, Steering Group, Social Sciences Division]
 groups: []
 ---
 

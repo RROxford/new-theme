@@ -3,7 +3,7 @@
 firstname: Kathryn
 lastname: Dally
 position: Head of Research Ethics and Integrity, Research Services
-affiliations: [Steering Committee]
+affiliations: [Research Services, Steering Group]
 groups: []
 ---
 

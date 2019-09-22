@@ -3,7 +3,7 @@ firstname: Sam
 lastname: Parsons
 position: Postdoctoral Research Associate in Experimental Psychology
 image_src: sam-parsons.png
-affiliations: [Experimental Psychology]
+affiliations: [Experimental Psychology, Medical Sciences Division]
 groups: [ReproducibiliTea]
 ---
 

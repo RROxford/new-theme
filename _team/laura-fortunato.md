@@ -9,7 +9,7 @@ twitter: anthrolog
 orcid: 0000-0001-8546-9497
 github: laurafortunato
 osf: https://osf.io/ekmjy/
-affiliations: [Anthropology, Magdalen College, Steering Group]
+affiliations: [Anthropology, Magdalen College, Steering Group, Social Sciences Division]
 groups: [Software and Data Carpentry]
 ---
 

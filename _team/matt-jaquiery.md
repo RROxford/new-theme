@@ -10,7 +10,7 @@ github: mjaquiery
 osf: https://osf.io/bc9xt/
 website: https://github.com/oxacclab/
 groups: []
-affiliations: [Experimental Psychology, Website]
+affiliations: [Experimental Psychology, Website, Medical Sciences Division]
 
 ---
 
