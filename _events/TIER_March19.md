@@ -1,6 +1,6 @@
 ---
 title: Project TIER Faculty Development Spring '19
-type: workshop
+type: training
 image_src: TIER.jpeg
 website: https://www.projecttier.org/
 expires: 2019-03-13
