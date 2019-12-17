@@ -20,7 +20,7 @@ title                    : "Reproducible Research Oxford"
 title_separator          : "-"
 name                     : "Reproducible Research Oxford"
 description              : "Championing reproducible research practices at the University of Oxford."
-url                      : "https://hopeful-archimedes-2f00a3.netlify.com"
+url                      : "https://ox.ukrn.org"
 baseurl                  : 
 repository               : "rroxford/new-theme"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

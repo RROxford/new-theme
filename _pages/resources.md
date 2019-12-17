@@ -10,9 +10,10 @@ collection: resources
 
 ---
 
-[Research Data Oxford](http://researchdata.ox.ac.uk): contains the official
-Oxford University policy regarding research data management, and has helpful
-information about research data policy.
+Here are links for resources relating to reproducibility in and around Oxford.
+
+[Codebar Oxford](https://codebar.io/) offers free programming workshops, with
+the goal to make the tech community more diverse!
 {: .text-justify}
 
 [Open Access Oxford](http://openaccess.ox.ac.uk) has useful resources on open
@@ -27,6 +28,7 @@ http://openaccess.ox.ac.uk/2019/07/22/open-scholarship-at-oxford-case-studies/
 of R.
 {: .text-justify}
 
-[Codebar Oxford](https://codebar.io/) offers free programming workshops, with
-the goal to make the tech community more diverse!
+[Research Data Oxford](http://researchdata.ox.ac.uk): contains the official
+Oxford University policy regarding research data management, and has helpful
+information about research data policy.
 {: .text-justify}

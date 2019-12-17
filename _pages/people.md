@@ -6,6 +6,7 @@ permalink: /people/
 type: page
 ---
 
+---
 RROx is run by a Steering Group and several others who lead on
 specific [initiatives]({{ "/all_groups" | relative_url }}).
 
