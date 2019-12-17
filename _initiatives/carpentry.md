@@ -1,6 +1,6 @@
 ---
 title: Software and data carpentry
-type: workshop
+type: training
 image_src: carpentry.png
 website: https://software-carpentry.org/about/
 ---
