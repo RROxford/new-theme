@@ -2,8 +2,8 @@
 main:
   - title: "People"
     url: /people/
-  - title: "Initiatives"
-    url: /initiatives/
+  - title: "What's on?"
+    url: /stuff/
   - title: "Resources"
     url: /resources/
   - title: "Join us"

@@ -202,6 +202,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 collections:
   - team
   - initiatives
+  - events
   - resources
 
 

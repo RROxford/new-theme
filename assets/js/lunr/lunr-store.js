@@ -13,8 +13,8 @@ var store = [
       {% comment %}Here we adjust the search result URLs to be appropriate for the collection.{% endcomment %}
       {% if doc.collection == "team" %}
         {% capture myURL %}people/#{{ doc.title | replace: " ", "" }}{% endcapture %}
-      {% elsif doc.collection == "initiatives" %}
-        {% capture myURL %}{{ doc.collection }}/#{{ doc.title | replace: " ", "" }}{% endcapture %}
+      {% elsif doc.collection == "initiatives" or doc.collection == "events" %}
+        {% capture myURL %}stuff/#{{ doc.title | replace: " ", "" }}{% endcapture %}
       {% else %}
         {% assign myURL = doc.url %}
       {% endif %}
