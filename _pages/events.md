@@ -3,7 +3,7 @@ title: "What's On"
 tagline: "What's going on in Oxford?"
 description: Key reproducibility initiatives in Oxford
 type: page
-permalink: /stuff/
+permalink: /events/
 ---
 ---
 
@@ -12,12 +12,13 @@ permalink: /stuff/
 Below is a list of reproducibility-related events happening in or around Oxford. At the bottom of this page you'll also find some ongoing [initiatives](#initiatives), as well as a list of [past events](#pastEvents).
 
 <div id="accordion">
-{% for event in site.events %}
+{% assign events = site.events | sort: "expires" %}
+{% for event in events %}
   <div class="card event" data-expires-after='{{ event.expires | convert: "date" | date: "%Y-%m-%d" }}'>
     <div class="card-header" data-toggle="collapse" data-target="#{{- event.title | replace: " ", "" -}}" tabindex="0" onkeydown="clickMe(event)">
       {% if event.image_src %}
         <div class="logo">
-          <img src="{{ 'assets/images/initiatives' | relative_url}}/{{ event.image_src }}"/>
+          <img src="{{ 'assets/images/events' | relative_url}}/{{ event.image_src }}"/>
         </div>
       {% endif %}
       <div class="brief">

@@ -3,7 +3,7 @@ main:
   - title: "People"
     url: /people/
   - title: "What's on?"
-    url: /stuff/
+    url: /events/
   - title: "Resources"
     url: /resources/
   - title: "Join us"
