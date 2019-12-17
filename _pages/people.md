@@ -33,7 +33,7 @@ You can also see who is involved by [affiliation]({{
   {% if forloop.first == true %}
     {% assign groupArray = person.groups %}
   {% else %}
-    {% assign groupArray = groupArray | concat: person.groups %}
+    {% assign groupArray = groupArray | push: person.groups %}
   {% endif %}
 {% endfor %}
 {% assign groupArray = groupArray | uniq %}
@@ -48,7 +48,7 @@ You can also see who is involved by [affiliation]({{
   {% if forloop.first == true %}
     {% assign affArray = person.affiliations %}
   {% else %}
-    {% assign affArray = affArray | concat: person.affiliations %}
+    {% assign affArray = affArray | push: person.affiliations %}
   {% endif %}
 {% endfor %}
 {% assign affArray = affArray | uniq %}

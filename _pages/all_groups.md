@@ -14,7 +14,7 @@ permalink: /all_groups
   {% if forloop.first == true %}
     {% assign groupArray = person.groups %}
   {% else %}
-    {% assign groupArray = groupArray | concat: person.groups %}
+    {% assign groupArray = groupArray | push: person.groups %}
   {% endif %}
 {% endfor %}
 {% assign groupArray = groupArray | uniq %}
