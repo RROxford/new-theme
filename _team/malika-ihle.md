@@ -10,7 +10,7 @@ github: MalikaIhle
 osf: http://osf.io/qc4rw/
 website: http://malikaihle.wordpress.com/
 groups: []
-affiliations: [Steering Group]
+affiliations: [Steering Group, Anthropology]
 
 ---
 
