@@ -11,4 +11,4 @@ groups: []
 affiliations: [Steering Group, Computer Science, Mathematical Physical and Life Sciences Division, New College]
 
 ---
-David workd in the field of Mathematical and Computational Modelling, establishing and leading the Computational Biology Group, based principally within Oxford's Department of Computer Science. He is the Director of Graduate Studies for the Mathematical, Physical and Life Sciences Division.
+Professor David Gavaghan works in the field of Mathematical and Computational Modelling, establishing and leading the Computational Biology Group, based principally within Oxford's Department of Computer Science. He is the Director of Graduate Studies for the Mathematical, Physical and Life Sciences Division.
