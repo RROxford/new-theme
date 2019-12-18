@@ -19,3 +19,5 @@ Take a look at the [people involved]({{ site.url }}{{ site.baseurl }}/people/)
 in the project and get in touch if you have any questions, or ideas for initiatives.
 
 Don't forget to follow us on [Twitter](http://twitter.com/RR_Oxford) and [subscribe to our mailing list](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20rroxford) to stay up to date on everything that's going on!
+
+Are you organising Open Science related events in Oxford or need help with doing so? Please [email us](mailto:ReproducibleResearchOxford@gmail.com)!
