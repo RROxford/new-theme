@@ -11,7 +11,9 @@ Reproducible Research Oxford (RROx) formal launch event is on
 Monday 13 January 2020 from 1.30-6pm at St John’s College
 
 
-Invited speakers are:
+
+As well as introducing RROx, and having brainstorming sessions to share ideas, get feedback, and discuss activities in your area that we could support, we have three invited speakers:
+
 
 •	**Claire Fraser** (Senior Higher Education Policy Adviser, Research England)
 The role of open and reproducible research in the **REF**
