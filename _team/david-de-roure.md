@@ -10,8 +10,8 @@ github: davidderoure
 osf: https://osf.io/zj7e4/
 website: https://sites.google.com/site/davidderoure/
 groups: []
-affiliations: [Experimental Psychology, Website, Medical Sciences Division]
+affiliations: [Steering Group, Wolfson College, e-Research Centre, Digital Humanities]
 
 ---
 
-David De Roure is Professor of e-Research at University of Oxford. Focused on advancing digital scholarship, David works closely with multiple disciplines including social sciences (studying social machines), humanities (computational musicology and experimental humanities), engineering (Internet of Things), and computer science (large scale distributed systems and social computing). He has extensive experience in hypertext, Web Science, Linked Data, and Internet of Things. 
+David De Roure is Professor of e-Research at University of Oxford. Focused on advancing digital scholarship, David works closely with multiple disciplines including social sciences (studying social machines), humanities (computational musicology and experimental humanities), engineering (Internet of Things), and computer science (large scale distributed systems and social computing). He has extensive experience in hypertext, Web Science, Linked Data, and Internet of Things.
