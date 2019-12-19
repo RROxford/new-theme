@@ -1,6 +1,6 @@
 ---
 title: Reproducible Research Oxford Launch
-type: conference 13 Jan 2020
+type: conference
 image_src: RROxLaunchLogo.png
 starts: 2020-01-13
 ends: 2020-01-14

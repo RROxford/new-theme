@@ -1,6 +1,6 @@
 ---
 title: Karen Sandler from software freedom conservancy
-type: talk 5 Feb 2020
+type: talk
 image_src: sfconservancy.png
 starts: 2020-02-05
 ends: 2020-02-06
