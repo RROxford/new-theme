@@ -3,7 +3,8 @@ title: Project TIER Faculty Development Spring '19
 type: training
 image_src: TIER.jpeg
 website: https://www.projecttier.org/
-expires: 2019-03-13
+starts: 
+ends: 2019-03-13
 ---
 
 Project TIER's Faculty Development Workshops are designed for college and university faculty who are interested in integrating principles of research transparency and reproducibility into courses on quantitative methods and/or the supervision of student research.

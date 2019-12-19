@@ -20,16 +20,16 @@ When you make changes to the Jekyll files you'll notice that Ruby automatically 
 
 Content files which contribute to the contents of the site can and should be edited! These are:
 * The main page file, **_pages/main.md** (mostly now written in HTML)
-* The first few lines of **_pages/people.md** and **_pages/initatives.md**, which introduce those collections before listing their contents
+* The first few lines of **_pages/people.md** and **_pages/events.md**, which introduce those collections before listing their contents
 * The **_pages/get-involved.md** and **_pages/resources.md** files, which contain markdown defining those pages
 
 ## Collections
 
-Collections are Jekyll's way of organising arbitrary content bundles, and they're used here to group initiatives and people. Files in the **_initiatives/** and **_team/** directories contain the entries for these collections, respectively. These files can be edited, and others created as necessary. Newly created files in these folders will be automatically added to the relevant pages.
+Collections are Jekyll's way of organising arbitrary content bundles, and they're used here to group initiatives and people. Files in the **_initiatives/**, **_events/**, and **_team/** directories contain the entries for these collections, respectively. These files can be edited, and others created as necessary. Newly created files in these folders will be automatically added to the relevant pages.
 
 ### Images
 
-The collection files usually have images associated with them. These are stored in the **assets/images/initiatives/** and **assets/images/team_members/** directories and referred to without the directory structure prefix in the YAML.
+The collection files usually have images associated with them. These are stored in the **assets/images/initiatives/**, **assets/images/events/**, and **assets/images/team_members/** directories and referred to without the directory structure prefix in the YAML.
 
 ## File languages
 

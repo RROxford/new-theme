@@ -13,7 +13,7 @@ type: pages
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/workshop-people.png){: .align-center}
 
 We'd love for you to get involved! Have you already attended one of our
-[initiatives]({{ site.url }}{{ site.baseurl }}/initiatives/)?
+[events]({{ site.url }}{{ site.baseurl }}/events/)?
 
 Take a look at the [people involved]({{ site.url }}{{ site.baseurl }}/people/)
 in the project and get in touch if you have any questions, or ideas for initiatives.

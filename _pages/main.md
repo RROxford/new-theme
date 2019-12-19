@@ -44,7 +44,7 @@ body {
   <p>Our <a href="{{ '/people' | relative_url }}">Steering Group</a>
   works with key stakeholders across the University towards this
   goal. We also organize and support several <a href="{{
-  '/initiatives' | relative_url }}">initiatives</a> throughout the
+  '/events' | relative_url }}">initiatives</a> throughout the
   year, and we maintain a list of relevant <a href="{{ '/resources' |
   relative_url }}">resources</a> at Oxford and beyond.</p>
 

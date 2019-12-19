@@ -3,7 +3,7 @@
     <div class="modal-content">
 
       <div class="modal-header">
-        <a href="{{ '/' | relative_url }}initiatives/#{{- include.group | replace: " ", "" -}}"><h4 class="modal-title">{{ include.group }}</h4></a>
+        <a href="{{ '/' | relative_url }}events/#{{- include.group | replace: " ", "" -}}"><h4 class="modal-title">{{ include.group }}</h4></a>
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
 

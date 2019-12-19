@@ -14,47 +14,7 @@ Below is a list of reproducibility-related events happening in or around Oxford.
 <div id="accordion">
 {% assign events = site.events | sort: "expires" %}
 {% for event in events %}
-  <div class="card event" data-expires-after='{{ event.expires | convert: "date" | date: "%Y-%m-%d" }}'>
-    <div class="card-header" data-toggle="collapse" data-target="#{{- event.title | replace: " ", "" -}}" tabindex="0" onkeydown="clickMe(event)">
-      {% if event.image_src %}
-        <div class="logo">
-          <img src="{{ 'assets/images/events' | relative_url}}/{{ event.image_src }}"/>
-        </div>
-      {% endif %}
-      <div class="brief">
-        <p class="text-muted">{{ event.type }}</p>
-        <h4>{{ event.title }}</h4>
-      </div>
-    </div>
-    <div class="card-body collapse" id="{{- event.title | replace: " ", "" -}}" data-parent="#accordion">
-      <div class="card-links">
-        <ul class="border-left border-muted">
-        {% if event.website %}
-          <li><i class="fa fa-globe" aria-hidden="true"></i><a href="{{ event.website }}">Event website</a></li>
-        {% endif %}
-        {% if event.twitter %}
-          <li><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
-        {% endif %}
-        {% if event.soundcloud %}
-          <li><i class="fab fa-soundcloud"></i><a href="https://soundcloud.com/{{ event.soundcloud }}">Soundcloud</a></li>
-        {% endif %}
-        </ul>
-      </div>
-      <div class="event-detail">
-        {{ event.content | markdownify }}
-      </div>
-      <div class="event-people">
-        {% assign people = site.team | sort_natural: 'lastname' %}
-        {% for person in people %}
-          {% if person.groups contains event.title %}
-            <div class="btn btn-outline-info" onclick="window.location.assign('{{ '/people' | relative_url }}#{{- person.firstname | append: person.lastname | replace: ' ', '' -}}')" tabindex="0" onkeydown="clickMe(event)">
-              {{ person.firstname }} {{ person.lastname }}
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </div>
+    {% include event_card event=event %}
 {% endfor %}
 </div>
 
@@ -64,47 +24,7 @@ Here is a list of ongoing initiatives related to RROx.
 
 <div id="accordion">
 {% for event in site.initiatives %}
-  <div class="card event" data-expires-after='{{ event.expires | convert: "date" | date: "%Y-%m-%d" }}'>
-    <div class="card-header" data-toggle="collapse" data-target="#{{- event.title | replace: " ", "" -}}" tabindex="0" onkeydown="clickMe(event)">
-      {% if event.image_src %}
-        <div class="logo">
-          <img src="{{ 'assets/images/initiatives' | relative_url}}/{{ event.image_src }}"/>
-        </div>
-      {% endif %}
-      <div class="brief">
-        <p class="text-muted">{{ event.type }}</p>
-        <h4>{{ event.title }}</h4>
-      </div>
-    </div>
-    <div class="card-body collapse" id="{{- event.title | replace: " ", "" -}}" data-parent="#accordion">
-      <div class="card-links">
-        <ul class="border-left border-muted">
-        {% if event.website %}
-          <li><i class="fa fa-globe" aria-hidden="true"></i><a href="{{ event.website }}">Event website</a></li>
-        {% endif %}
-        {% if event.twitter %}
-          <li><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
-        {% endif %}
-        {% if event.soundcloud %}
-          <li><i class="fab fa-soundcloud"></i><a href="https://soundcloud.com/{{ event.soundcloud }}">Soundcloud</a></li>
-        {% endif %}
-        </ul>
-      </div>
-      <div class="event-detail">
-        {{ event.content | markdownify }}
-      </div>
-      <div class="event-people">
-        {% assign people = site.team | sort_natural: 'lastname' %}
-        {% for person in people %}
-          {% if person.groups contains event.title %}
-            <div class="btn btn-outline-info" onclick="window.location.assign('{{ '/people' | relative_url }}#{{- person.firstname | append: person.lastname | replace: ' ', '' -}}')" tabindex="0" onkeydown="clickMe(event)">
-              {{ person.firstname }} {{ person.lastname }}
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </div>
+    {% include event_card event=event %}
 {% endfor %}
 </div>
 
@@ -122,7 +42,7 @@ Here is a list of ongoing initiatives related to RROx.
   // Get a list of expired cards sorted by most recent date
   let cards = [];
   document.querySelectorAll('#accordion > div').forEach((e)=> {
-    let expires = e.dataset.expiresAfter;
+    let expires = e.dataset.dateEnds;
     // Only count initiaitves with an expiry date
     if(expires.length === 0)
       return;
@@ -140,7 +60,7 @@ Here is a list of ongoing initiatives related to RROx.
     // Insert into cards array in descending order
     let i = 0;
     while(i < cards.length) {
-      if(new Date(cards[i].dataset.expiresAfter) < date)
+      if(new Date(cards[i].dataset.dateEnds) < date)
         break;
       else
         i++;
@@ -159,7 +79,7 @@ Here is a list of ongoing initiatives related to RROx.
   let currentYear = Infinity;
   let pastDiv = document.querySelector('#accordionPast');
   for(let i = 0; i < cards.length; i++) {
-    let year = new Date(cards[i].dataset.expiresAfter).getFullYear();
+    let year = new Date(cards[i].dataset.dateEnds).getFullYear();
     // New year heading
     if(year < currentYear) {
       pastDiv.appendChild(document.createElement('h3')).innerText = year;
