@@ -3,7 +3,7 @@ title: Project TIER Faculty Development Spring '19
 type: training
 image_src: TIER.jpeg
 website: https://www.projecttier.org/
-starts: 
+starts: 2019-03-13
 ends: 2019-03-13
 ---
 
