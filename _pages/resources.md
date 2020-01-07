@@ -1,7 +1,7 @@
 ---
 
 title: "Resources"
-tagline: Resources for open and reproducible research
+tagline: Relevant resources in and around Oxford
 description:
 permalink: /resources/
 type: page
@@ -23,9 +23,16 @@ Open Scholarship Case
 Studies](http://openaccess.ox.ac.uk/2019/07/22/open-scholarship-at-oxford-case-studies/),
 which showcase related ongoing work across the University.
 
-[R user group Oxford](https://r-oxford.github.io/) hosts events aimed
-at users of R.
+[R user group Oxford](https://r-oxford.github.io/) hosts regular
+events aimed at users of R.
 
 [Research Data Oxford](http://researchdata.ox.ac.uk) provides the
 official University policy regarding research data management,
 including helpful information about research data policy.
+
+[Research Support](https://researchsupport.admin.ox.ac.uk/) outlines a
+set of
+[principles](https://researchsupport.admin.ox.ac.uk/information/principles)
+to promote the responsible use of research metrics at Oxford, in line
+with the University's support for [DORA](https://sfdora.org/), the San
+Francisco Declaration on Research Assessment.
