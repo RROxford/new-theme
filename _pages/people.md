@@ -5,9 +5,10 @@ description: Key people
 permalink: /people/
 type: page
 ---
+---
 
-In line with its cross-disciplinary remit, RROx is run by a Steering
-Group with representation from the four academic Divisions of the
+In line with its cross-disciplinary remit, RROx is run by a [Steering
+Group](/all_groups#SteeringGroup) with representation from the four academic Divisions of the
 University of Oxford. Steering Group members span all career stages,
 from DPhil student to senior professor.
 

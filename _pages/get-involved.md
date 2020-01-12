@@ -7,6 +7,7 @@ permalink: /get-involved/
 type: pages
 
 ---
+---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/workshop-people.png){: .align-center}
 

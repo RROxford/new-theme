@@ -1,6 +1,6 @@
 ---
 
-title: Ambassadors listed by affiliation
+title: People listed by affiliation
 type: page
 permalink: /all_affiliations
 
@@ -24,8 +24,8 @@ permalink: /all_affiliations
 
 {% for affiliation in affArray %}
   <div class="card affiliation-list">
-    <div class="card-header" data-toggle="collapse" data-target="#{{ affiliation }}" tabindex="0" onkeydown="clickMe(event)">{{ affiliation }}</div>
-    <div class="card-body collapse" id="{{ affiliation }}">
+    <div class="card-header show" data-toggle="collapse" data-target="#{{ affiliation }}" tabindex="0" onkeydown="clickMe(event)">{{ affiliation }}</div>
+    <div class="card-body collapse" id="{{ affiliation | replace: " ", "" }}">
       {% for person in site.team %}
         {% if person.affiliations contains affiliation %}
           <button type="button" class="btn btn-block" onclick="window.location.assign('{{ '/' | relative_url }}people/#{{- person.firstname | append: person.lastname | replace: " ", "" -}}')" tabindex="0" onkeydown="clickMe(event)">
