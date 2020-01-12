@@ -1,17 +1,23 @@
 ---
 title: "People"
-tagline: "Find your key contacts"
-description: Key people involved in ReproducibleResearchOxford
+tagline: "Key people"
+description: Key people
 permalink: /people/
 type: page
 ---
 
----
-RROx is run by a Steering Group and several others who lead on
-specific [initiatives]({{ "/all_groups" | relative_url }}).
+In line with its cross-disciplinary remit, RROx is run by a Steering
+Group with representation from the four academic Divisions of the
+University of Oxford. Steering Group members span all career stages,
+from DPhil student to senior professor.
 
-You can also see who is involved by [affiliation]({{
-"/all_affiliations" | relative_url }}).
+Additionally, representation from the Bodleian Libraries provides
+liaison with relevant units in Gardens, Libraries & Museums;
+representation from Research Services provides a direct interface with
+the Research Ethics and Integrity team.
+
+Others are involved in RROx by leading on specific [initiatives]({{
+"/all_groups" | relative_url }}).
 
 <div class="initial-content person-card-columns" id="accordion">
   {% assign people = site.team | sort_natural: 'lastname' %}
