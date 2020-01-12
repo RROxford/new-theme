@@ -9,4 +9,4 @@
 * ~~under "People", make "Steering Group" clickable in intial blurb~~
 * review pages tagline, description for consistency
 * ~~change "Ambassadors listed by group OR affiliation" to "People by group OR affiliation"~~
-    - Is there any way to list people by affiliation anymore? Seems the link to /all_affiliations has been removed from the people.md body.
+    - Should there a link to list people by affiliation in the people.md body?
