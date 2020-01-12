@@ -8,10 +8,21 @@ website: https://www.ndph.ox.ac.uk/team/verena-heise
 orcid: 0000-0002-5625-4128
 osf: https://osf.io/zacmy/
 email: verena.heise@ndph.ox.ac.uk
-affiliations: [Big Data Institute, Nuffield Department of Population Health, Wellcome Centre for Integrative Neuroimaging, Steering Group, Medical Sciences Division]
-groups: [Oxford-Berlin Summer School]
+affiliations: [Big Data Institute, Nuffield Department of Population Health, Wellcome Centre for Integrative Neuroimaging, Medical Sciences Division]
+groups: [Oxford | Berlin Summer School, Steering Group]
 ---
 
-Verena holds an Intermediate Fellowship at the Nuffield Department of Population Health at the University of Oxford and is based at the Big Data Institute. In the area of open research, her interests focus on changing incentives to promote open/ reproducible/ replicable research practices and on the provision of training as one of the organisers of the Berlin - Oxford Open Research summer school. Verena is a member of the steering group for Reproducible Research Oxford, she leads the Open Community theme for the Open Science working group at the [Wellcome Centre for Integrative Neuroimaging](https://www.win.ox.ac.uk/open-neuroimaging/open-neuroimaging-project) and is on the Advisory Board for Credibility in Neuroscience at the [British Neuroscience Association](https://www.bna.org.uk/mediacentre/news/credibility/). 
+Verena Heise holds an Intermediate Fellowship at the Nuffield
+Department of Population Health at the University of Oxford, and she
+is based at the Big Data Institute.
 
-Verena is always happy to help fellow early career researchers set up new open research activities or working groups to spread the word, so please get in touch if you would like to have a chat.
+In the area of open research, Verena's interests focus on changing
+incentives to promote open research practices and on the provision of
+training, as one of the organisers of the Oxford | Berlin Summer
+School. Verena leads the Open Community theme for the [Open Science
+working
+group](https://www.win.ox.ac.uk/open-neuroimaging/open-neuroimaging-project)
+at the Wellcome Centre for Integrative Neuroimaging, and she is on the
+[Advisory Board for Credibility in
+Neuroscience](https://www.bna.org.uk/mediacentre/news/credibility/) at
+the British Neuroscience Association.

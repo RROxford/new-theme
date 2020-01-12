@@ -10,8 +10,17 @@ github: mjaquiery
 osf: https://osf.io/bc9xt/
 website: https://verysmalldreams.com/
 groups: [ReproducibiliTea]
-affiliations: [Experimental Psychology, Website, Medical Sciences Division]
+affiliations: [Department of Experimental Psychology, Medical Sciences Division, Wolfson College]
 
 ---
 
-Matt studies advice-taking and decision-making with Nick Yeung and the [Attention and Cognitive Control](https://www.oxacclab.org/) lab, using a combination of behavioural experiments and computational models. He is interested in a broad range of Open Science topics, and helped compile the UKRN Primers on *Preprints* and *Data Sharing*. He organises ReproducibiliTea both locally in Oxford and globally as a member of the core team. He is also responsible for the technical aspects of this website. 
+Matt Jaquiery studies advice-taking and decision-making with Nick
+Yeung and the [Attention and Cognitive Control
+lab](https://www.oxacclab.org/), using a combination of behavioural
+experiments and computational models.
+
+Matt is interested in a broad range of open science topics, and he
+helped compile the UKRN Primers on *Preprints* and *Data Sharing*. He
+organises ReproducibiliTea both locally in Oxford and globally as a
+member of the core team. He is also responsible for the technical
+aspects of this website.

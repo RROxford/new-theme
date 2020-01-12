@@ -8,9 +8,10 @@ orcid: 0000-0002-7048-4093
 github: sdparsons
 osf: https://osf.io/k7akr/
 website: https://samparsons.netlify.com/
-affiliations: [Experimental Psychology, Medical Sciences Division]
+affiliations: [Department of Experimental Psychology, Medical Sciences Division]
 groups: [ReproducibiliTea]
 ---
 
-Sam is a Postdoctoral Research Associate at the Department of Experimental Psychology. He is
-one of the organisers of ReprodubiliTea.
+Sam is a Postdoctoral Research Associate at the Department of
+Experimental Psychology. He is one of the organisers of
+ReprodubiliTea.
