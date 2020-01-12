@@ -2,22 +2,27 @@
 
 title: "Get involved!"
 tagline: Get involved!
-description: How to get involved with Reproducible Research Oxford
+description: How to get involved
 permalink: /get-involved/
 type: pages
 
-
----
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/workshop-people.png){: .align-center}
 
-We'd love for you to get involved! Have you already attended one of our
-[events]({{ site.url }}{{ site.baseurl }}/events/)?
+We would love for you to get involved in RROx! Have you already
+attended one of our [events]({{ site.url }}{{ site.baseurl
+}}/events/)? If you are organising a related activity in Oxford, do
+[email us](mailto:ReproducibleResearchOxford@gmail.com), as we may be
+able to help.
 
-Take a look at the [people involved]({{ site.url }}{{ site.baseurl }}/people/)
-in the project and get in touch if you have any questions, or ideas for initiatives.
+Take a look at the [people]({{ site.url }}{{ site.baseurl }}/people/)
+involved and get in touch if you have any questions or ideas for
+events or initiatives. You can also browse people by [affiliation]({{
+"/all_affiliations" | relative_url }}) or by [group]({{ "/all_groups"
+| relative_url }}).
 
-Don't forget to follow us on [Twitter](http://twitter.com/RR_Oxford) and [subscribe to our mailing list](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20rroxford) to stay up to date on everything that's going on!
-
-Are you organising Open Science related events in Oxford or need help with doing so? Please [email us](mailto:ReproducibleResearchOxford@gmail.com)!
+You can follow us on [Twitter](http://twitter.com/RR_Oxford) and
+subscribe to our [mailing
+list](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20rroxford) to
+stay up to date!
