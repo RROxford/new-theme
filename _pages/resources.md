@@ -42,3 +42,5 @@ set of
 to promote the responsible use of research metrics at Oxford, in line
 with the University's support for [DORA](https://sfdora.org/), the San
 Francisco Declaration on Research Assessment.
+
+[UKRN Open Research Primers](https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/) are designed to give brief, practical introductions to making your research more transparent, robust, and accessible.

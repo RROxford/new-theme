@@ -21,7 +21,7 @@
           <li><i class="fab fa-fw fa-github-square" aria-hidden="true"></i><a href="https://github.com/{{ person.github }}">{{ person.github }}</a></li>
         {% endif %}
         {% if person.website %}
-          <li><i class="fas fa-fw fa-globe" aria-hidden="true"></i><a href="{{ person.website }}">website</a></li>
+          <li><i class="fas fa-fw fa-globe" aria-hidden="true"></i><a href="{{ person.website }}">{{ person.website }}</a></li>
         {% endif %}
         {% if person.orcid %}
           <li><i class="ai ai-orcid-square" aria-hidden="true"></i><a href="https://orcid.org/{{ person.orcid }}">{{ person.orcid }}</a></li>
@@ -37,7 +37,8 @@
       {% endunless %}
       </div>
 
-      {% for group in person.groups %}
+      {% assign groups = person.groups | sort_natural %}
+      {% for group in groups %}
         {% if forloop.first == true %}
           <div class="buttons">
         {% endif %}
@@ -47,7 +48,8 @@
         {% endif %}
       {% endfor %}
 
-      {% for group in person.affiliations %}
+      {% assign groups = person.affiliations | sort_natural %}
+      {% for group in groups %}
         {% if forloop.first == true %}
           <div class="buttons">
         {% endif %}
