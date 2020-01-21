@@ -23,6 +23,12 @@ Open Scholarship Case
 Studies](http://openaccess.ox.ac.uk/2019/07/22/open-scholarship-at-oxford-case-studies/),
 which showcase related ongoing work across the University.
 
+The [Oxford local
+group](https://www.ndorms.ox.ac.uk/csm/royal-statistical-society-oxford-local-group)
+of the [Royal Statistical Society](https://www.rss.org.uk/) runs an
+annual programme of talks and lectures on statistical topics, open to
+academics and non-academics with an interest in statistics.
+
 [R user group Oxford](https://r-oxford.github.io/) hosts regular
 events aimed at users of R.
 
