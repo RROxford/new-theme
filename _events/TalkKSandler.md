@@ -3,7 +3,7 @@ title: Karen Sandler from software freedom conservancy
 type: talk
 image_src: sfconservancy.png
 starts: 2020-02-05
-ends: 
+ends: 2020-02-06
 ---
 
 **Karen Sandler** will be speaking about her work at [**software freedom conservancy**](https://sfconservancy.org/).
