@@ -27,6 +27,7 @@
         {% if event.soundcloud %}
           <li><i class="fab fa-soundcloud"></i><a href="https://soundcloud.com/{{ event.soundcloud }}">Soundcloud</a></li>
         {% endif %}
+            <li><i class="fas fa-link"></i><a href="/events/#{{ event.title | replace: " ", "" }}" onkeydown="clickMe(event)" onclick="openCard('{{ event.title | replace: " ", "" }}')">Event link</a></li>
         </ul>
       </div>
       <div class="event-detail">
