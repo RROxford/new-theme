@@ -9,7 +9,7 @@ github: sdparsons
 osf: https://osf.io/k7akr/
 website: https://samparsons.netlify.com/
 affiliations: [Department of Experimental Psychology, Medical Sciences Division]
-groups: [ReproducibiliTea]
+groups: [ReproducibiliTea, RROx Fellows]
 ---
 
 Sam is a Postdoctoral Research Associate at the Department of

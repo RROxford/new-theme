@@ -9,7 +9,7 @@ orcid: 0000-0003-3599-1580
 github: mjaquiery
 osf: https://osf.io/bc9xt/
 website: https://verysmalldreams.com/
-groups: [ReproducibiliTea]
+groups: [ReproducibiliTea, RROx Fellows]
 affiliations: [Department of Experimental Psychology, Medical Sciences Division, Wolfson College]
 
 ---
