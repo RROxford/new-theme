@@ -1,10 +1,11 @@
+{% capture link_url %}{% if event.starts %}{{ event.starts | convert: "date" | date: "%Y-%m-%d" }}_{% elsif event.ends %}{{ event.ends | convert: "date" | date: "%Y-%m-%d" }}_{% endif %}{% if event.short_title %}{{ event.short_title | replace: " ", "-" }}{% else %}{{ event.title | replace: " ", "-" }}{% endif %}{% endcapture %}
 <div class="card event" data-date-ends='{{ event.ends | convert: "date" | date: "%Y-%m-%d" }}' data-date-starts='{{ event.starts | convert "date" | date: "%Y-%m-%d"}}'>
     {% if event.ends or event.starts %}
         <div class="card-date-block">
             {{ event.starts | date: "%Y %b %d" }}{% if event.starts and event.ends and event.starts != event.ends %} - {% endif %}{% if event.ends != event.starts %}{{ event.ends | date: "%Y %b %d" }}{% endif %}
         </div>
     {% endif %}
-    <div class="card-header" data-toggle="collapse" data-target="#{{- event.title | replace: " ", "" -}}" tabindex="0" onkeydown="clickMe(event)">
+    <div class="card-header" data-toggle="collapse" data-target="#{{ link_url }}" tabindex="0" onkeydown="clickMe(event)">
       {% if event.image_src %}
         <div class="logo">
           <img src="/assets/images/{{ event.collection }}/{{ event.image_src }}"/>
@@ -15,7 +16,7 @@
         <h4>{{ event.title }}</h4>
       </div>
     </div>
-    <div class="card-body collapse" id="{{- event.title | replace: " ", "" -}}" data-parent="#accordion">
+    <div class="card-body collapse" id="{{ link_url }}" data-parent="#accordion">
       <div class="card-links">
         <ul class="border-left border-muted">
         {% if event.website %}
@@ -27,7 +28,7 @@
         {% if event.soundcloud %}
           <li><i class="fab fa-soundcloud"></i><a href="https://soundcloud.com/{{ event.soundcloud }}">Soundcloud</a></li>
         {% endif %}
-            <li><i class="fas fa-link"></i><a href="/events/#{{ event.title | replace: " ", "" }}" onkeydown="clickMe(event)" onclick="openCard('{{ event.title | replace: " ", "" }}')">Event link</a></li>
+            <li><i class="fas fa-link"></i><a href="/events/#{{ link_url }}" onkeydown="clickMe(event)" onclick="openCard('{{ link_url }}')">Event link</a></li>
         </ul>
       </div>
       <div class="event-detail">

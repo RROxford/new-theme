@@ -32,6 +32,10 @@
       if('#' + this.id !== cardId)
         this.classList.remove('expand');
     });
+    $('.card-body.show').each(function() {
+        if('#' + this.id !== cardId)
+            this.classList.remove('show');
+    });
 
     if(cardId === "#")
       return;
