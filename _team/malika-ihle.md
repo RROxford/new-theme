@@ -9,7 +9,7 @@ orcid: 0000-0002-3242-5981
 github: MalikaIhle
 osf: http://osf.io/qc4rw/
 website: http://malikaihle.wordpress.com/
-groups: []
+groups: [Steering Group]
 affiliations: [Institute of Cognitive and Evolutionary Anthropology, School of Anthropology & Museum Ethnography, Social Sciences Division]
 
 ---
