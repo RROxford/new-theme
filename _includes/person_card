@@ -2,6 +2,9 @@
   <div class="card-top" tabindex="0" onkeydown="clickMe(event)" onclick="openCard(this.parentElement.id);">
     <div class="card-pic">
         <img src="/assets/images/team_members/{{ person.image_src | default: "blank.png" }}" class="portrait"/>
+        {% if person.groups contains 'Steering Group' %}
+        <i class="fas fa-chess-queen sg-icon"></i>
+        {% endif %}
     </div>
     <div class="card-brief">
       <h4 class="card-title">
