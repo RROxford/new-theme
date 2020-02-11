@@ -3,7 +3,7 @@
     <div class="card-pic">
         <img src="/assets/images/team_members/{{ person.image_src | default: "blank.png" }}" class="portrait"/>
         {% if person.groups contains 'Steering Group' %}
-        <i class="fas fa-chess-queen sg-icon"></i>
+        <img src="/assets/images/sg.svg" class="sg-icon" alt="SG"/>
         {% endif %}
     </div>
     <div class="card-brief">
@@ -17,6 +17,9 @@
     <div id="{{- person.firstname | append: person.lastname | replace: " ", "" -}}-Detail" class="collapse" data-parent="#accordion">
       <div class="card-links">
         <ul class="border-left border-muted">
+        {% if person.email %}
+          <li><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:{{ person.email }}">{{ person.email }}</a></li>
+        {% endif %}
         {% if person.twitter %}
           <li><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a></li>
         {% endif %}

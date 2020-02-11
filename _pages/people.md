@@ -8,7 +8,7 @@ type: page
 ---
 
 In line with its cross-disciplinary remit, RROx is run by a [Steering
-Group](/all_groups#SteeringGroup) (<i class="fas fa-chess-queen sg-icon"></i>) with representation from the four academic Divisions of the
+Group](/all_groups#SteeringGroup) <img src="/assets/images/sg.svg" class="sg-icon" alt="SG"/> with representation from the four academic Divisions of the
 University of Oxford. Steering Group members span all career stages,
 from DPhil student to senior professor.
 
@@ -21,15 +21,9 @@ Others are involved in RROx by leading on specific [initiatives]({{
 "/all_groups" | relative_url }}).
 
 <div class="initial-content person-card-columns" id="accordion">
-    {% assign sg = site.team | where_exp: "item", "item.groups contains 'Steering Group'" %}
-    {% assign sg = sg | sort_natural: 'lastname' %}
-    {% for person in sg %}
-        {% include person_card person=person %}
-    {% endfor %}
-
   {% assign people = site.team | sort_natural: 'lastname' %}
   {% for person in people %}
-    {% unless person.retired or person.groups contains 'Steering Group' %}
+    {% unless person.retired %}
         {% include person_card person=person %}
     {% endunless %}
   {% endfor %}

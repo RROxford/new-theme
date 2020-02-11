@@ -5,6 +5,7 @@ lastname: Ihle
 position: Reproducible Research Oxford Coordinator
 image_src: malika-ihle.png
 twitter: MalikaIhle
+email: malika.ihle@anthro.ox.ac.uk
 orcid: 0000-0002-3242-5981
 github: MalikaIhle
 osf: http://osf.io/qc4rw/
