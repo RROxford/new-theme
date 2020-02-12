@@ -3,7 +3,7 @@ firstname: Paul
 lastname: Thompson
 position: Postdoctoral Research Associate | Statistician
 image_src: paul-thompson.png
-twitter: @stat_PT
+twitter: stat_PT
 orcid: 0000-0001-9940-6913
 github: p1981thompson
 osf: https://osf.io/m3hw2/

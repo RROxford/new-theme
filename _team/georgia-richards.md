@@ -3,7 +3,7 @@ firstname: Georgia
 lastname: Richards
 position: Doctoral (DPhil) Candidate
 image_src: georgia-richards.png
-twitter: @Richards_G_C
+twitter: Richards_G_C
 orcid: 0000-0003-0244-5620
 github: georgiarichards
 osf: https://osf.io/profile/

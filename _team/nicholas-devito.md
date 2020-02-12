@@ -2,8 +2,8 @@
 firstname: Nicholas
 lastname: DeVito
 position: DPhil Student and Researcher
-image_src: blank.png
-twitter: @ndevito1
+image_src: nicholas-devito.png
+twitter: ndevito1
 orcid: 0000-0001-8286-1995
 github: NickCEBM
 osf: https://osf.io/7smdb

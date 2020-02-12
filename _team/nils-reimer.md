@@ -3,7 +3,7 @@ firstname: Nils
 lastname: Reimer
 position: Postdoctoral Researcher
 image_src: nils-reimer.png
-twitter: @reimthyme
+twitter: reimthyme
 orcid: 0000-0002-0692-0022
 github: nilsreimer
 osf: https://osf.io/s3pxu
