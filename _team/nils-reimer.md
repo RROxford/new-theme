@@ -12,4 +12,4 @@ affiliations: [Department of Experimental Psychology, Medical Sciences Division,
 groups: [ReproducibiliTea, RROx Fellows]
 ---
 
-Nils is a social psychologist studying intergroup relations, intergroup contact, social inequality, and social change. He investigates these topics using advanced quantitative methods. At times, he teaches data visualization and multilevel modeling. He is one of the organisers of the ReprodubiliTea journal club.
+Nils is a social psychologist studying intergroup relations, intergroup contact, social inequality, and social change. He investigates these topics using advanced quantitative methods. At times, he teaches data visualization and multilevel modeling. He is one of the organisers of the ReprodubiliTea journal club held in the department of Experimental Psychology in Oxford.
