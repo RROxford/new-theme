@@ -20,7 +20,9 @@ lab](https://www.oxacclab.org/), using a combination of behavioural
 experiments and computational models.
 
 Matt is interested in a broad range of open science topics, and he
-helped compile the UKRN Primers on *Preprints* and *Data Sharing*. He
-organises ReproducibiliTea both locally in Oxford and globally as a
-member of the core team. He is also responsible for the technical
+helped compile the [UKRN Primers](https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/) on *Preprints* and *Data Sharing*. He
+organises ReproducibiliTea both locally in [Oxford](https://reproducibilitea.org/journal-clubs/#Oxford) and [globally](https://reproducibilitea.org/) as a
+member of the core team. He sits on the Experimental Psychology Open Science Committee.
+
+Matt is responsible for the technical
 aspects of this website.
