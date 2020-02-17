@@ -1,7 +1,7 @@
 ---
 firstname: Paul
 lastname: Thompson
-position: Postdoctoral Research Associate | Statistician
+position: Post-doctoral Research Associate and Statistician
 image_src: paul-thompson.png
 twitter: stat_PT
 orcid: 0000-0001-9940-6913

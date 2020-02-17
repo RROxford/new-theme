@@ -1,7 +1,7 @@
 ---
 firstname: Nicholas
 lastname: DeVito
-position: DPhil Student and Researcher
+position: DPhil Candidate in Health Sciences
 image_src: nicholas-devito.png
 twitter: ndevito1
 orcid: 0000-0001-8286-1995

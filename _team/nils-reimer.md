@@ -1,7 +1,7 @@
 ---
 firstname: Nils
 lastname: Reimer
-position: Postdoctoral Researcher
+position: Post-doctoral Research Associate in Experimental Psychology
 image_src: nils-reimer.png
 twitter: reimthyme
 orcid: 0000-0002-0692-0022

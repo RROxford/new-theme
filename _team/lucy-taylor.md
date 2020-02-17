@@ -2,13 +2,13 @@
 
 firstname: Lucy
 lastname: Taylor
-position: Junior Research Fellow, Christ Church College
+position: DPhil Candidate in Zoology and Junior Research Fellow
 image_src: lucy-taylor.png
-website: 
+website:
 twitter: LucyATaylor
 orcid: 0000-0003-4443-9456
-github: 
-osf: 
+github:
+osf:
 affiliations: [Christ Church College, Department of Zoology, Mathematical Physical and Life Sciences Division]
 groups: [Steering Group]
 ---
