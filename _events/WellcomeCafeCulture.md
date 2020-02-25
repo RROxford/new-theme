@@ -2,7 +2,7 @@
 title: Wellcome Cafe Culture
 short_title: Wellcome Cafe Culture
 type: discussion
-image_src: welcome-trust-logo.png
+image_src: wellcome-trust-logo.png
 starts: 2020-03-05
 ends:
 ---
