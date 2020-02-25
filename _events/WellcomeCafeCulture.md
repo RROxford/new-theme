@@ -2,9 +2,9 @@
 title: Wellcome Cafe Culture
 short_title: Wellcome Cafe Culture
 type: discussion
-image_src: welcome-trust-logo.jpg
+image_src: welcome-trust-logo.png
 starts: 2020-03-05
-ends: 2020-04-05
+ends:
 ---
 
 We would like to discuss with you our current research culture and ways to improve it!
