@@ -29,4 +29,4 @@ idea in the journal *Behavioral Ecology* titled "Striving for
 transparent and credible research: practical guidelines for behavioral
 ecologist", and she developed and taught a graduate course guiding
 students through the scientific pipeline, from preregistration to a
-reproducible and open workflow.
+reproducible and open workflow.  
