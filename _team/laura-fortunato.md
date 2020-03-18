@@ -10,7 +10,7 @@ orcid: 0000-0001-8546-9497
 github: laurafortunato
 osf: https://osf.io/ekmjy/
 affiliations: [Institute of Cognitive and Evolutionary Anthropology, Magdalen College, School of Anthropology & Museum Ethnography, Social Sciences Division]
-groups: [Oxford | Berlin Summer School, Steering Group, The Carpentries]
+groups: [Oxford | Berlin Summer School, Steering Group, The Carpentries, OxFOSS]
 ---
 
 Laura Fortunato is Associate Professor of Evolutionary Anthropology at
