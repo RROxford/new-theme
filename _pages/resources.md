@@ -29,6 +29,8 @@ of the [Royal Statistical Society](https://www.rss.org.uk/) runs an
 annual programme of talks and lectures on statistical topics, open to
 academics and non-academics with an interest in statistics.
 
+[Oxford Research Software Engineering (OxRSE)](https://www.rse.ox.ac.uk/) enables academics from the University of Oxford to work with professional software engineers. They offer professional support for large and small projects but also free training and regular 30min bookable software surgeries.
+
 [R user group Oxford](https://r-oxford.github.io/) hosts regular
 events aimed at users of R.
 
