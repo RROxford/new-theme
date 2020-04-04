@@ -7,7 +7,7 @@ starts: 2020 April
 ends: 2020 June
 ---
 
-In the coming months, we will run virtual study groups.
+In the coming months, we will run online study groups.
 
 We have collated some [online training resources](https://docs.google.com/spreadsheets/d/1bdkL8_3AFxU86IZt7Hz7OP2NE7SBWvRWwG3QMI4WVnI/edit#gid=0) (feel free to use, share, and populate), and people among us have volunteered to organise study groups around some of those resources.
 
