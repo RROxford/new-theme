@@ -1,6 +1,6 @@
 ---
 title: Online Study Groups
-short_title: Online Study Groups
+short_title: online study groups
 type: online training
 image_src: online-study-group.png
 starts: 2020 April
