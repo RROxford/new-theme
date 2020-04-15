@@ -6,7 +6,7 @@ position: Professor of Developmental Neuropsychology
 image_src: dorothy-bishop.png
 website: http://deevybee.blogspot.com/
 twitter: deevybee
-affiliations: [Department of Experimental Psychology, Medical Sciences Division]
+affiliations: [Department of Experimental Psychology, Medical Sciences Division, St Johns College]
 groups: [Steering Group]
 ---
 
