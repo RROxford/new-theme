@@ -4,7 +4,7 @@ firstname: Megan
 lastname: Gooch
 position: Head of the Centre for Digital Scholarship & Digital Humanities Support
 image_src: megan-gooch.png
-twitter: DH_Oxford
+twitter: [DH_Oxford, agneatha]
 orcid: 0000-0002-3190-0509
 groups: [Steering Group]
 affiliations: [Humanities Division, Bodleian Libraries]
