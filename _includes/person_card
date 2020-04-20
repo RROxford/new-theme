@@ -29,7 +29,7 @@
         {% for x in person.website %}
           <li><i class="fas fa-fw fa-globe" aria-hidden="true"></i><a href="{{ x }}">{{ x }}</a></li>
         {% endfor %}
-        {% if person.orcid %}
+        {% for x in person.orcid %}
           <li><i class="ai ai-orcid-square" aria-hidden="true"></i><a href="https://orcid.org/{{ x }}">{{ x }}</a></li>
         {% endfor %}
         {% for x in person.osf %}
