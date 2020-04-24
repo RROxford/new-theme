@@ -10,7 +10,7 @@ github: davidderoure
 osf: https://osf.io/zj7e4/
 website: https://sites.google.com/site/davidderoure/
 groups: [Steering Group]
-affiliations: [Wolfson College, Oxford e-Research Centre, Department of Engineering Science,  Humanities Division]
+affiliations: [Wolfson College, Oxford e-Research Centre, Department of Engineering Science,  Humanities Division, Digital Humanities]
 
 ---
 

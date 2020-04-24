@@ -2,12 +2,13 @@
 
 firstname: Aruna
 lastname: Bhaugeerutty
-position: Manager of Digital Collections at the Ashmolean Museum
+position: Manager of Digital Collections, Ashmolean Museum
 image_src: aruna-bhaugeerutty.png
-twitter: A_r_u_n_a_B
-website: http://openspires.it.ox.ac.uk/aruna-bhaugeerutty
+website:
+- https://www.linkedin.com/in/arunab
+- http://openspires.it.ox.ac.uk/aruna-bhaugeerutty]
 groups: [Steering Group]
-affiliations: [Ashmolean Museum]
+affiliations: [Ashmolean Museum, Gardens Librairies & Museums, Digital Humanities, National Digitisation Taskforce]
 
 ---
-Aruna is the Project Manager and Editor for [Online Collections at the Ashmolean Museum](http://www.ashmolean.org/collections/online/), and works toward opening up the Museum’s collections to a wider audience via interactive online websites, an [OpenSpire](http://openspires.it.ox.ac.uk/) project.
+Aruna manages the Digital Collections programme and team at the Ashmolean Museum and has been closely involved in the development and implementation of Oxford’s GLAM Digital Strategy. She is currently working on the delivery of the museum’s ambitious strategic aim to digitise 25% of its collections by 2020 as well as overseeing the implementation of new systems for collections and digital asset management. Successful projects include the [Ashmolean Collection Online](http://collections.ashmolean.org/) platform and its predecessor [Eastern Art Online](http://jameelcentre.ashmolean.org/). Aruna is also a member of the National Digital Taskforce interested in the development of strategic approach to digitisation to enable global discovery of the nation’s collections. Aruna was previously based at Newcastle University conducting interdisciplinary research across the areas of contemporary art, music and cultural heritage on the emergence of sound art as a genre.

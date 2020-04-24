@@ -7,7 +7,7 @@ image_src: megan-gooch.png
 twitter: [DH_Oxford, agneatha]
 orcid: 0000-0002-3190-0509
 groups: [Steering Group]
-affiliations: [Humanities Division, Bodleian Libraries]
+affiliations: [Humanities Division, Bodleian Libraries, Digital Humanities]
 
 ---
 Megan works across and beyond Oxford to build effective working relationships within digital humanities. She is responsible for:  
