@@ -10,7 +10,7 @@ permalink: /events/
 # Events
 
 Below is a list of reproducibility-related events happening in or around Oxford. At the bottom of this page you'll also find some ongoing [initiatives](#initiatives), as well as a list of [past events](#pastEvents).
-For each of our activities, please follow our [Code of Conduct](https://rrox.netlify.app/misc/RRoxCoC.pdf) which relies on the [UKRN Code of Conduct](https://www.ukrn.org/code-of-conduct/).
+For each of our activities, please follow our [Code of Conduct](https://www.ox.ukrn.org//misc/RROxCoC.pdf) which relies on the [UKRN Code of Conduct](https://www.ukrn.org/code-of-conduct/).
 
 <div id="accordion">
 {% assign events = site.events | sort: "expires" %}
