@@ -4,7 +4,7 @@ short_title: online study groups
 type: online training
 image_src: online-study-group.png
 starts: 2020 April
-ends: 2020 June
+ends: 2020 September
 ---
 
 In the coming months, we will run online study groups.
