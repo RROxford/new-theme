@@ -17,7 +17,7 @@ liaison with relevant units in Gardens, Libraries & Museums;
 representation from Research Services provides a direct interface with
 the Research Ethics and Integrity team.
 
-Others are involved in RROx by leading on specific [initiatives]({{
+[RROx Fellows](/all_groups#RROxFellows) are involved in RROx by leading on specific [initiatives]({{
 "/all_groups" | relative_url }}).
 
 <div class="initial-content person-card-columns" id="accordion">
@@ -27,7 +27,7 @@ Others are involved in RROx by leading on specific [initiatives]({{
         {% include person_card person=person %}
     {% endunless %}
   {% endfor %}
-  
+
   {% for person in people %}
       {% if person.retired %}
           {% include person_card person=person %}
