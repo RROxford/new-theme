@@ -9,7 +9,7 @@ orcid: 0000-0002-2879-176X
 github: RowanWilson
 osf: https://osf.io/56nas/
 website: https://researchdata.ox.ac.uk
-groups: [Steering Group]
+groups: [Steering Group, Oxford Free Open Source Software]
 affiliations: [IT Services, St Johns College]
 
 ---

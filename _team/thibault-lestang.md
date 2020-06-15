@@ -7,7 +7,7 @@ image_src: thibault-lestang.png
 orcid: 0000-0001-6770-2638
 github: tlestang
 website: https://www.rse.ox.ac.uk/people/
-groups: [OxFOSS, RROx Fellows]
+groups: [RROx Fellows, Oxford Code Review Network, Oxford Free Open Source Software]
 affiliations: [Department of Computer Science,  Mathematical Physical and Life Sciences Division]
 ---
 Following a PhD in computational physics, Thibault joined the [Oxford Research Software Engineering](https://www.rse.ox.ac.uk/people/) group, driven by a strong belief that academia can vastly benefit from research software experts.
