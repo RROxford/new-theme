@@ -31,6 +31,7 @@
         {% endfor %}
         {% for x in person.orcid %}
           <li><i class="ai ai-orcid-square" aria-hidden="true"></i><a href="https://orcid.org/{{ x }}">{{ x }}</a></li>
+          <li><i class="fas fa-book-open" aria-hidden="true"></i><a href="https://zenodo.org/search?page=1&size=20&q=creators.%5C*:%22{{ x }}%22">zenodo entries</a></li>
         {% endfor %}
         {% for x in person.osf %}
           <li><i class="ai ai-osf-square" aria-hidden="true"></i><a href="{{ x }}">{{ x }}</a></li>
