@@ -6,6 +6,9 @@ position: Professor of Developmental Neuropsychology
 image_src: dorothy-bishop.png
 website: http://deevybee.blogspot.com/
 twitter: deevybee
+orcid: 0000-0002-2448-4033
+osf: 	http://osf.io/tx9zix9zi
+github: oscci
 affiliations: [Department of Experimental Psychology, Medical Sciences Division, St Johns College]
 groups: [Steering Group]
 ---
