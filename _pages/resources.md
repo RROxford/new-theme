@@ -17,6 +17,21 @@ relative_url }}">get in touch</a> to get a resource listed here!
 [Codebar Oxford](https://codebar.io/) offers free programming
 workshops, with the goal to make the tech community more diverse.
 
+[Data Readiness and
+FAIRness](https://datareadiness.eng.ox.ac.uk/){:target="_blank"} is a
+research group based at the Department of Engineering Science, which
+carries out research, development, and consultancy on data
+transparency, reproducibility, and scholarly publishing, based on the
+[FAIR Data
+Principles](https://www.go-fair.org/fair-principles){:target="_blank"},
+a set of guiding principles to make data Findable, Accessible,
+Interoperable and Reusable. The group develops and maintains
+[FAIRsharing](https://fairsharing.org/){:target="_blank"}, an
+educational resource on data and metadata standards (for sharing and
+reporting), inter-related to repositories, databases, knowledge bases,
+and data policies (from funders, journal publishers) from all
+disciplines.
+
 [Open Access Oxford](http://openaccess.ox.ac.uk) provides useful
 resources on open access publishing at Oxford, including the [Oxford
 Open Scholarship Case
