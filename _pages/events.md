@@ -1,7 +1,7 @@
 ---
-title: "What's On"
+title: "What's on"
 tagline: "What's going on in Oxford?"
-description: Key reproducibility initiatives in Oxford
+description: Events and initiatives
 type: page
 permalink: /events/
 ---
