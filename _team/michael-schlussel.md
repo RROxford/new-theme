@@ -9,7 +9,7 @@ github: mschlussel
 osf: https://osf.io/48wf2
 website: https://www.ndorms.ox.ac.uk/team/michael-maia-schlussel
 affiliations: [Nuffield Department of Orthopaedics Rheumatology and Muskuloskeletal Sciences, Medical Sciences Division]
-groups: [RROx Fellows]
+groups: [ReproducibiliTea, RROx Fellows]
 ---
 
 Michael Schlussel is a senior medical statistician at the UK [EQUATOR](https://www.equator-network.org/) Centre and in the [Centre for Statistics in Medicine](https://www.ndorms.ox.ac.uk/csm) based in the Nuffield Department of Orthopaedics, Rheumatology and Muskuloskeletal Sciences (NDORMS) in Oxford. He focuses on methodological research to improve medical investigation and scholarly communication. He regularly teaches subjects related to research design, conduct, statistical analysis and reporting, both at the divisional and departmental level at the University of Oxford. He is also a member of the editorial board for the journals *Neurosurgery and Evidence*.
