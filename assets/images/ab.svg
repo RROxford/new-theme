@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 205.62729 290.81574"
+   height="107.70953mm"
+   width="107.70953mm"
+   sodipodi:docname="ab.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview823"
+     showgrid="false"
+     inkscape:zoom="2.1076361"
+     inkscape:cx="143.28849"
+     inkscape:cy="203.54558"
+     inkscape:window-x="-8"
+     inkscape:window-y="1192"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-3.8798618,-3.5272236)"
+     id="layer1">
+    <circle
+       r="138.03009"
+       cy="148.9351"
+       cx="105.78774"
+       id="path4514"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:14.7555809" />
+    <text
+       id="text4532"
+       y="223.40747"
+       x="108.82855"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:208.21762085px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.80816126;"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:7.80816126"
+         id="tspan4530"
+         y="223.40747"
+         x="108.82855"><tspan
+           id="tspan4528"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:208.21763611px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:7.80816126"
+           y="223.40747"
+           x="112.82855">AB</tspan></tspan></text>
+  </g>
+</svg>

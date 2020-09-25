@@ -5,6 +5,9 @@
         {% if person.groups contains 'Steering Group' %}
         <img src="/assets/images/sg.svg" class="sg-icon" alt="SG"/>
         {% endif %}
+        {% if person.groups contains 'Advisory Board' %}
+        <img src="/assets/images/ab.svg" class="sg-icon" alt="AB"/>
+        {% endif %}
     </div>
     <div class="card-brief">
       <h4 class="card-title">
