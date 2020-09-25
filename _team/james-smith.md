@@ -1,7 +1,7 @@
 ---
 firstname: James
 lastname: Smith
-position: Post-doctoral Research Associate
+position: Post-doctoral Research Associate in NDORMS
 image_src: james-smith.png
 twitter: JamesASmith92
 orcid: 0000-0003-2634-0268
