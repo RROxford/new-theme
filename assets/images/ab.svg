@@ -24,14 +24,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1177"
      id="namedview823"
      showgrid="false"
      inkscape:zoom="2.1076361"
-     inkscape:cx="197.94145"
+     inkscape:cx="191.96025"
      inkscape:cy="203.54558"
      inkscape:window-x="-8"
-     inkscape:window-y="1192"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <defs
@@ -53,30 +53,30 @@
      id="layer1">
     <circle
        r="138.03009"
-       cy="148.9351"
-       cx="105.78774"
+       cy="148.93509"
+       cx="106.6935"
+       id="path4514-8"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.0142684" />
+    <circle
+       r="115.03009"
+       cy="148.93509"
+       cx="106.6935"
        id="path4514"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:14.7555809" />
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.7555809" />
     <text
        id="text4532"
-       y="223.40747"
-       x="108.82855"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:208.21762085px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.80816126;"
+       y="192.15857"
+       x="109.14067"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.76624298px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.52873468"
        xml:space="preserve"><tspan
-         style="fill:#ffffff;stroke-width:7.80816126"
+         style="fill:#ffffff;stroke-width:4.52873468"
          id="tspan4530"
-         y="223.40747"
-         x="108.82855"><tspan
+         y="192.15857"
+         x="109.14067"><tspan
            id="tspan4528"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:208.21763611px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:7.80816126"
-           y="223.40747"
-           x="108.82855"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:120.76625061px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:4.52873468"
+           y="192.15857"
+           x="109.14067"
            transform="translate(0.08420507,0.05082777)">AB</tspan></tspan></text>
   </g>
-  <circle
-     r="138.03009"
-     cy="145.40787"
-     cx="102.81364"
-     id="path4514-8"
-     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1" />
 </svg>
