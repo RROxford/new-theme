@@ -9,7 +9,7 @@ orcid: 0000-0002-8584-4637
 github: cassgvp
 osf: http://osf.io/7s93g/
 website: https://www.win.ox.ac.uk/people/cassandra-gould-van-praag
-groups: [RROx Fellows]
+groups: [RROx Fellows, ReproducibiliTea]
 affiliations: [Wellcome Centre for Integrative Neuroimaging (WIN), Oxford Neuroscience, Department of Psychiatry, Medical Sciences Division]
 
 ---
