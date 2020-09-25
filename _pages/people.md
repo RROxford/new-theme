@@ -20,7 +20,7 @@ the Research Ethics and Integrity team.
 [RROx Fellows](/all_groups#RROxFellows) are involved in RROx by leading on specific [initiatives]({{
 "/all_groups" | relative_url }}).
 
-An [Advisory Board](/all_groups#AdvisoryBoard) meets yearly with the Steering Group to monitor progress.
+An [Advisory Board](/all_groups#AdvisoryBoard) <img src="/assets/images/ab.svg" class="sg-icon" alt="AB"/> meets yearly with the Steering Group to monitor progress.
 
 <div class="initial-content person-card-columns" id="accordion">
   {% assign people = site.team | sort_natural: 'lastname' %}
