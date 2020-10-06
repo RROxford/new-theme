@@ -7,27 +7,20 @@ Free(Libre) Open Source Software (OxFOSS) meetups are held regularly to discuss 
 
 This initiative aims at bringing together people with an interest in free(dom) and open source software, particularly in an academic context. Meetings are a mix of informal discussion and invited talks.
 
-During Michaelmas term, meetings will be held on every other Mondays 3 or 3.30PM UK time.
+During Michaelmas term, meetings will be held on every other Mondays 3PM UK time.
 
 Outline
-- 19/10 3PM - Discussion: **Practical reasons for using free/open source software in academia**
-- tbc - Seminar: **Licensing research software: public domain? copyleft? permissive?**
-- 16/11 3.30PM- Discussion: **What can we do as a local FOSS community to advocate locally for FOSS? For which outcomes and at what levels?**
-- 30/11  TBD
+- 19/10 3PM-4.30PM - _Discussion_: **Intro to OxFOSS + Practical reasons for using free/open source software in academia**
+- 02/11 3PM-4PM - _Seminar by Rowan Wilson and Andrew Katz_: **Licensing research software: public domain? copyleft? permissive?**  
+- 16/11 3PM-4PM - _Discussion_: **What can we do as a local FOSS community to advocate locally for FOSS?**
+- 30/11 3PM-4PM - TBD
 
 
 Details
 - **Practical reasons for using free/open source software in academia**  
-_19/10 3PM - Discussion_
+_19/10 3PM-4.30PM - Discussion_
 
-There are often two main reasons for using free software. The first one
-is ideological: you support the idea that software should respect the freedom
-of its users, and avoid using proprietary software.
-The second is practical. In many cases, using free software proves comes with
-short-term and tangible benefits convenient (active community, support, price, longevity...).
-
-The software choices of busy researchers are often guided by practicality and convenience
-with respect with their research projects.
+Advocating for the use of  free and open source software is often made difficult by the fact that proprietary are deemed more convenient: either because they come with a larger set of features, or because they are already well established in one's community.
 In this first OxFOSS event we will discuss what the  practical reasons are for using FOSS, with a focus on academic
 research and scholarship. Free software is in fact widely used by many researchers for specialized tasks: R, scipy/numpy, jupyter, LaTeX...
 What are the reasons behind this popularity?
@@ -35,7 +28,7 @@ Can these extend to other free software projects competing with proprietary alte
 What are examples of when, and why, you choose to use a free software tool instead of a non-free alternative?
 
 - **Licensing research software: public domain? copyleft? permissive?**  
-_tbc_
+_02/11 3PM-4PM_
 
 _Invited talk by
 Rowan Wilson, Oxford IT Services Research Support team Leader, and
@@ -50,7 +43,7 @@ with a focus on research software written at the University of Oxford.
 
 
 - **What can we do as a local FOSS community to advocate locally for FOSS? For which outcomes and at what levels?**  
-_16/11 3.30PM - Discussion_
+_16/11 3PM-4PM - Discussion_
 
 OxFOSS aims to create and foster a friendly and inclusive community of people concerned with issues regarding
 software freedom and open source.
