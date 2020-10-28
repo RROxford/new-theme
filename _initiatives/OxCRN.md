@@ -1,7 +1,7 @@
 ---
 title: Oxford Code Review Network
 type: network
-image_src: code-review-logo.png
+image_src: oxcrn.png
 ---
 
 Ever wanted a fresh pair of eyes to look at your code, or to track down a bug?
