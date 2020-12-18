@@ -2,7 +2,7 @@
 
 firstname: Sara
 lastname: Middleton
-position: DPhil Student in Plant Sciences
+position: DPhil Candidate in Plant Sciences
 image_src: sara-middleton.png
 twitter: sara_lil_plants
 orcid: 0000-0001-5307-8029
