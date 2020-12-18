@@ -4,6 +4,7 @@ firstname: Ruth
 lastname: Mallalieu
 position: Head of Open Scholarship Support, Bodleian Libraries
 image_src: ruth-mallalieu.png
+twitter: copyrightruth
 affiliations: [Bodleian Libraries, Gardens Libraries & Museums]
 groups: [Steering Group]
 ---
