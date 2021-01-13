@@ -23,4 +23,4 @@ The survey will remain open until 1st March 2021.
 
 
 *Reference*  
-Malika Ihle, Dorothy Bishop, & Laura Fortunato. (2021, January 12). Open research at Oxford survey (Version 1.0). Zenodo. [http://doi.org/10.5281/zenodo.4433689](http://doi.org/10.5281/zenodo.4433689)
+Malika Ihle, Dorothy Bishop, & Laura Fortunato. (2021, January 12). Open research at Oxford survey. Zenodo. [http://doi.org/10.5281/zenodo.4433688](http://doi.org/10.5281/zenodo.4433688)
