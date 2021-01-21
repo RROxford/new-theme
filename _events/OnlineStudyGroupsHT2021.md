@@ -21,8 +21,9 @@ You can also continue the discussion over to the dedicated RROx Slack channel fo
 
 
 
--	**Statistical Rethinking book club**
-Statistics book club is an enthusiastic discussion group focused on working through a book or course collaboratively to improve all participants' statistical knowledge and understanding.
+-	**Statistical Rethinking book club**  
+
+This book club is an enthusiastic discussion group focused on working through a book or course collaboratively to improve all participants' statistical knowledge and understanding.  
 This term they will together The Model Thinker by Scott E. Page. and follow the associated [Coursera MOOC](https://www.coursera.org/learn/model-thinking)
 
 To participate in this group and get all the necessary information, join the dedicated RROx Slack channel.
