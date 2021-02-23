@@ -1,5 +1,5 @@
 ---
-title: Open research at Oxford survey
+title: Open research at Oxford survey, round one - PGR students
 short_title: open-research-at-oxford-survey
 type: online survey
 image_src: survey.jpg
