@@ -1,7 +1,7 @@
 ---
 firstname: Georgia
 lastname: Richards
-position: DPhil Candidate in Health Sciences
+position: Research Fellow in Health Sciences
 image_src: georgia-richards.png
 twitter: Richards_G_C
 orcid: 0000-0003-0244-5620
