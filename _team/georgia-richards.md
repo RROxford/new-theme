@@ -8,7 +8,7 @@ orcid: 0000-0003-0244-5620
 github: georgiarichards
 osf: https://osf.io/profile/
 website: https://www.phc.ox.ac.uk/team/georgia-richards
-affiliations: [Centre for Evidence-Based Medicine, Nuffield Department of Primary Care Health Sciences, Kellogg College, Medical Science Division]
+affiliations: [Centre for Evidence-Based Medicine, Global Centre on Healthcare and Urbanisation, Kellogg College, Medical Science Division]
 groups: [ReproducibiliTea, RROx Fellows]
 ---
 
