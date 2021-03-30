@@ -30,3 +30,5 @@ transparent and credible research: practical guidelines for behavioral
 ecologist", and she developed and taught a graduate course guiding
 students through the scientific pipeline, from preregistration to a
 reproducible and open workflow.  
+
+Malika is an Executive Committee member of the Society for Open Reliable Transparent Ecology and Evolutionary biology (SORTEE) and the UK Reproducibility Network (UKRN) local network lead at the University of Oxford.

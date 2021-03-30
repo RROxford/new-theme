@@ -3,7 +3,7 @@ title: Oxford Free Open Source Software
 type: meetups
 image_src: foss-logo.png
 ---
-Free(Libre) Open Source Software (OxFOSS) meetups are held regularly to discuss free software. [Subscribe to the OxFOSS mailing list](https://web.maillist.ox.ac.uk/ox/subscribe/oxcrn-announce) to stay informed!
+Free(Libre) Open Source Software (OxFOSS) meetups are held regularly to discuss free software. [Subscribe to the OxFOSS mailing list](https://web.maillist.ox.ac.uk/ox/subscribe/foss){:target="_blank"} to stay informed!
 
 This initiative aims to bring together people with an interest in software freedom and open source, particularly in an academic context. Meetings are a mix of informal discussion and invited talks.
 
@@ -34,12 +34,7 @@ _Invited talk by
 Rowan Wilson, Oxford IT Services Research Support team Leader, and
 Andrew Katz, Managing Partner and Head of Tech and IP at Moorcrofts_
 
-In many cases, licensing your research software is necessary for anyone to use, read, modify and/or redistribute it.
-Licensing software as free/open source is often the preferred option for research project, so as to facilitate
-knowledge transfer and collaboration.
-But what type of license should you opt for? Copyleft? Permissive? Should you waive all rights and release your software in the public domain?
-We discuss the choice of free software license and its relation to intellectual property,
-with a focus on research software written at the University of Oxford.
+How can I share the software I write to further my research? Why would I bother? Do I have to ask anyone? How do I do it? This talk will discuss how you can license your Oxford research software using free and open source software licences, why you might want to, and examine some examples of the results. Andrew Katz is Head of IP and Tech at Moorcrofts LLP and has been a leading light on the UK FOSS scene for many years. Rowan Wilson helps researchers with IT at Oxford and for ten years worked in Oxford's free and open source software advisory service OSS Watch.
 
 
 - **What can we do as a local FOSS community to advocate locally for FOSS?**  
