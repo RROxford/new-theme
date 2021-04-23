@@ -15,20 +15,17 @@ affiliations: [Institute of Cognitive and Evolutionary Anthropology, School of A
 
 ---
 
-Malika Ihle is the Reproducible Research Oxford Coordinator,
-supporting the Steering Group in developing a comprehensive approach
-to open scholarship and reproducible research that extends across all
-disciplines, using both bottom-up and top-down strategies.
+Malika Ihle is the Reproducible Research Oxford Coordinator, supporting the Steering Group in developing a comprehensive approach
+to open scholarship and reproducible research that extends across all disciplines, using both bottom-up and top-down strategies.
 
-Malika holds a Master degree in Biology from Université de Bourgogne
-and Université du Québec à Montréal, and a PhD in Behavioral Ecology
-from the Max Planck Institute for Ornithology. During her post-docs at
-the University of Sheffield and University of Florida, she organised a
-post-conference symposium on open science, she co-authored an invited
-idea in the journal *Behavioral Ecology* titled "Striving for
-transparent and credible research: practical guidelines for behavioral
-ecologist", and she developed and taught a graduate course guiding
-students through the scientific pipeline, from preregistration to a
-reproducible and open workflow.  
+Malika holds a PhD in Behavioral Ecology from the Max Planck Institute for Ornithology. During her post-docs at
+the University of Sheffield and University of Florida, she organised a symposium on open science at the International Society for Behavioral Ecology conference, and developed and taught a postgraduate course guiding students through the scientific pipeline, from preregistration to a
+reproducible and open workflow.
 
-Malika is an Executive Committee member of the Society for Open Reliable Transparent Ecology and Evolutionary biology (SORTEE) and the UK Reproducibility Network (UKRN) local network lead at the University of Oxford.
+Malika is an Executive Committee member and the chair of the Diversity, Equity, and Inclusion committee of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology ([SORTEE](https://www.sortee.org/)) and she is the UK Reproducibility Network ([UKRN](https://www.ukrn.org/)) local network lead at the University of Oxford.
+
+Selected articles:  
+
+Ihle M, Winney IS, Krystalli A & Croucher M. 2017. [Striving for transparent and credible research: practical guidelines for behavioral ecologists.](https://doi.org/10.1093/beheco/arx003) *Invited Idea – Behavioral Ecology.*  
+
+ O’Dea RE, Parker TH, Chee YE, Drobniak SM, Duncan DH, Fidler F, Gould E, Ihle M, Kelly CD, Lagisz M, Roche DG, Sánchez-Tójar A, Wilkinson DP, Wintle BC, Nakagawa S. 2021. [Towards open, reliable, and transparent ecology and evolutionary biology.](https://doi.org/10.1186/s12915-021-01006-3) *BMC Biology*  
