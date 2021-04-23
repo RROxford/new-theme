@@ -1,9 +1,9 @@
 ---
 
 firstname: Mirela
-lastname: Zavena
+lastname: Zaneva
 position: DPhil Candidate in Experimental Psychology
-image_src: mirela-zavena.png
+image_src: mirela-zaneva.png
 orcid: 0000-0003-3569-931X
 osf: http://osf.io/a8juq
 groups: [RROx Fellows, Decolonising Research Interest Group]
