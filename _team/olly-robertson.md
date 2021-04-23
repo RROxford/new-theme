@@ -9,7 +9,7 @@ orcid: 0000-0002-7333-0903
 github: psychollygy
 osf: https://osf.io/jwm24
 website: https://psychollygy.com/
-groups: [RROx Fellows, ReproducibiliTea]
+groups: [RROx Fellows, ReproducibiliTea, Decolonising Research Interest Group]
 affiliations: [Department of Experimental Psychology, Medical Sciences Division]
 
 ---
