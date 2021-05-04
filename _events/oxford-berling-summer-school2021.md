@@ -12,7 +12,7 @@ The Oxford Berlin Summer School on Open Research 2021 will be conducted in hybri
 Transparency and reproducibility of research methods and results are important hallmarks of high quality in all areas, from biomedical to social and physical sciences. In the last few years, many novel approaches, tools, and technologies have emerged that allow for a comprehensive representation of the research process that goes far beyond descriptions of research methods and results as found in traditional journal articles. Open research practices have the potential to revolutionise the way research methods and results are communicated, and to facilitate research collaborations and sharing of research outputs in an unprecedented manner. However, adopting these practices requires knowledge and skills that are not normally taught in undergraduate or graduate degrees. To close this gap, we offer a four-day summer school to guide early career researchers (PhD students and postdocs) towards an open, transparent, and reproducible research workflow. These topics will be embedded in a more general curriculum on research ethics and meta-research.
 
 **Program**  
-- The four-day summer school will consist of a series of lectures that cover the following topics:
+The four-day summer school will consist of a series of lectures that cover the following topics:
 - Biases in research
 - Reproducibility
 - Best practices for sharing publications, data, and code
