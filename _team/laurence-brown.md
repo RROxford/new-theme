@@ -12,7 +12,7 @@ website:
 - https://researchdata.ox.ac.uk/
 - https://www.ndcn.ox.ac.uk/team/laurence-brown
 - http://users.ox.ac.uk/~anat0144
-groups: [The Carpentries]
+groups: [The Carpentries, RROx Fellows]
 affiliations: [IT Services, Sleep and Circadian Neuroscience Institute (SCNi), Nuffield Department of Clinical Neurosciences, Medical Sciences Division]
 
 ---
