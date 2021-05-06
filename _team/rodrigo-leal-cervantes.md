@@ -8,7 +8,7 @@ twitter: rodrigolece
 github: rodrigolece
 website: https://www.maths.ox.ac.uk/people/rodrigo.lealcervantes
 groups: [RROx Fellows, The Carpentries]
-affiliations: [Mathematical Institute, St Anne's College, Mathematical Physical and Life Sciences Division,]
+affiliations: [Mathematical Institute, St Anne's College, Mathematical Physical and Life Sciences Division]
 
 ---
 
