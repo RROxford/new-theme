@@ -1,5 +1,5 @@
 ---
-title: Peer Community in Registered Report with Corina Logan
+title: Peer Community in Registered Reports with Corina Logan
 short_title: Logan webinar
 type: presentation and discussion
 image_src: pci-rr.png
