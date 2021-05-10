@@ -8,7 +8,7 @@ orcid: 0000-0002-1764-2697
 github: crahal
 osf: https://osf.io/5hvea/
 website: https://crahal.github.io/
-groups: [Steering Group]
+groups: [Steering Group, The Carpentries]
 affiliations: [Leverhulme Centre for Demographic Science, Department of Sociology, Nuffield College, Social Sciences Division]
 
 ---
