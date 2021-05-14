@@ -14,4 +14,4 @@ It's also a great opportunity to engage with colleagues from other departments a
 
 OxCRN is beginner friendly: you don't need to be a veteran programmer to review code, and a basic knowledge of the relevant programming language will do. Whatever your level of experience, reviewing code is perhaps the best way to sharpen and widen your software skills.
 
-Simply visit [https://github.com/OxfordCodeReviewNet/forum](https://github.com/OxfordCodeReviewNet/forum) and get started today!
+Simply visit [https://github.com/OxfordCodeReviewNet/forum](https://github.com/OxfordCodeReviewNet/forum){:target="_blank"} and get started today!

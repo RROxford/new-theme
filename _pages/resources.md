@@ -35,9 +35,9 @@ disciplines.
 
 [EQUATOR Network](https://www.equator-network.org/){:target="_blank"} (Enhancing the QUAlity and Transparency Of health Research) is an international initiative based in Oxford that seeks to improve the reliability and value of published health research literature by promoting transparent and accurate reporting and wider use of robust reporting guidelines.
 
-[IT Learning Center](https://skills.it.ox.ac.uk/) provides many [Digital Skills courses](https://skills.it.ox.ac.uk/whats-on#/) for staffs and students of Oxford.
+[IT Learning Center](https://skills.it.ox.ac.uk/){:target="_blank"} provides many [Digital Skills courses](https://skills.it.ox.ac.uk/whats-on#/){:target="_blank"} for staffs and students of Oxford.
 
-[NC3Rs](https://www.nc3rs.org.uk/) is a UK-based scientific organisation with an Oxford hub dedicated to replacing, refining and reducing the use of animals in research and testing. They provide courses and [resources](https://www.nc3rs.org.uk/experimental-design) to increase the reliability of experimental designs.
+[NC3Rs](https://www.nc3rs.org.uk/){:target="_blank"} is a UK-based scientific organisation with an Oxford hub dedicated to replacing, refining and reducing the use of animals in research and testing. They provide courses and [resources](https://www.nc3rs.org.uk/experimental-design){:target="_blank"} to increase the reliability of experimental designs.
 
 [Open Access Oxford](http://openaccess.ox.ac.uk){:target="_blank"}
 provides useful resources on open access publishing at Oxford,
@@ -75,7 +75,7 @@ with the University's support for
 [DORA](https://sfdora.org/){:target="_blank"}, the San Francisco
 Declaration on Research Assessment.
 
-[Research Support](https://researchsupport.admin.ox.ac.uk/){:target="_blank"} provides an [Ethics and Integrity online course](https://researchsupport.admin.ox.ac.uk/support/training/ethics#collapse409401) designed to support researchers from all disciplines. The core course outlines how researchers can meet their responsibilities, setting out the key principles and practices of good research conduct through the entire lifecycle of a research project. Specialist supplementary modules cover research involving human participants, research involving animals, intellectual property, conflicts of interest, and export controls.
+[Research Support](https://researchsupport.admin.ox.ac.uk/){:target="_blank"} provides an [Ethics and Integrity online course](https://researchsupport.admin.ox.ac.uk/support/training/ethics#collapse409401){:target="_blank"} designed to support researchers from all disciplines. The core course outlines how researchers can meet their responsibilities, setting out the key principles and practices of good research conduct through the entire lifecycle of a research project. Specialist supplementary modules cover research involving human participants, research involving animals, intellectual property, conflicts of interest, and export controls.
 
 [UKRN Open Research
 Primers](https://www.ukrn.org/primers/){:target="_blank"} are designed

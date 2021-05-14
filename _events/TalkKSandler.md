@@ -7,7 +7,7 @@ starts: 2020-02-05
 ends: 2020-02-05
 ---
 
-**Karen Sandler** will be speaking about her work at [**software freedom conservancy**](https://sfconservancy.org/) on February 5 at 16:00
+**Karen Sandler** will be speaking about her work at [**software freedom conservancy**](https://sfconservancy.org/){:target="_blank"} on February 5 at 16:00
 (Lecture Theatre B, Department of Computer Science)
 
 ***Finding Our Path To Digital Autonomy: Exploring the Relationship Between Tech Ethics, Privacy and Software Freedom***

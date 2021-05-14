@@ -22,10 +22,10 @@ Malika holds a PhD in Behavioral Ecology from the Max Planck Institute for Ornit
 the University of Sheffield and University of Florida, she organised a symposium on open science at the International Society for Behavioral Ecology conference, and developed and taught a postgraduate course guiding students through the scientific pipeline, from preregistration to a
 reproducible and open workflow.
 
-Malika is an Executive Committee member and the chair of the Diversity, Equity, and Inclusion committee of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology ([SORTEE](https://www.sortee.org/)) and she is the UK Reproducibility Network ([UKRN](https://www.ukrn.org/)) local network lead at the University of Oxford.
+Malika is an Executive Committee member and the chair of the Diversity, Equity, and Inclusion committee of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology ([SORTEE](https://www.sortee.org/){:target="_blank"}) and she is the UK Reproducibility Network ([UKRN](https://www.ukrn.org/){:target="_blank"}) local network lead at the University of Oxford.
 
 Selected articles:  
 
-Ihle M, Winney IS, Krystalli A & Croucher M. 2017. [Striving for transparent and credible research: practical guidelines for behavioral ecologists.](https://doi.org/10.1093/beheco/arx003) *Invited Idea – Behavioral Ecology.*  
+Ihle M, Winney IS, Krystalli A & Croucher M. 2017. [Striving for transparent and credible research: practical guidelines for behavioral ecologists.](https://doi.org/10.1093/beheco/arx003){:target="_blank"} *Invited Idea – Behavioral Ecology.*  
 
- O’Dea RE, Parker TH, Chee YE, Drobniak SM, Duncan DH, Fidler F, Gould E, Ihle M, Kelly CD, Lagisz M, Roche DG, Sánchez-Tójar A, Wilkinson DP, Wintle BC, Nakagawa S. 2021. [Towards open, reliable, and transparent ecology and evolutionary biology.](https://doi.org/10.1186/s12915-021-01006-3) *BMC Biology*  
+ O’Dea RE, Parker TH, Chee YE, Drobniak SM, Duncan DH, Fidler F, Gould E, Ihle M, Kelly CD, Lagisz M, Roche DG, Sánchez-Tójar A, Wilkinson DP, Wintle BC, Nakagawa S. 2021. [Towards open, reliable, and transparent ecology and evolutionary biology.](https://doi.org/10.1186/s12915-021-01006-3){:target="_blank"} *BMC Biology*  

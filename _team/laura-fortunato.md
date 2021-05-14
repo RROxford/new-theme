@@ -15,8 +15,8 @@ groups: [Oxford | Berlin Summer School, Steering Group, The Carpentries, Oxford 
 
 Laura Fortunato is Associate Professor of Evolutionary Anthropology at
 the University of Oxford, and a Fellow of [Magdalen College,
-Oxford](https://www.magd.ox.ac.uk/). She is also an External Professor
-at the [Santa Fe Institute](http://www.santafe.edu/) and a member of
+Oxford](https://www.magd.ox.ac.uk/){:target="_blank"}. She is also an External Professor
+at the [Santa Fe Institute](http://www.santafe.edu/){:target="_blank"} and a member of
 its Science Steering Committee. Her research and teaching focus on the
 evolution of human social and cultural behaviour.
 
@@ -24,5 +24,5 @@ In the area of open research, Laura's interests relate to the
 provision of training, and in particular to effective computing for
 reproducibility and the use of free and open source software. She is a
 founding member of the Steering Group of the [UK Reproducibility
-Network](http://www.ukrn.org/), and a member of the Board of Directors
-of the [Software Freedom Conservancy](https://sfconservancy.org/).
+Network](http://www.ukrn.org/){:target="_blank"}, and a member of the Board of Directors
+of the [Software Freedom Conservancy](https://sfconservancy.org/){:target="_blank"}.

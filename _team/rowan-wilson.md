@@ -13,4 +13,4 @@ groups: [Steering Group, Oxford Free Open Source Software]
 affiliations: [IT Services, St Johns College]
 
 ---
-Rowan manages the Research Support team at IT Services. He has been involved in open tech, open source and open content for almost two decades, supporting researchers in Oxford and across the UK as part of projects like [OSS Watch](http://oss-watch.ac.uk/), [OpenSpires](http://openspires.it.ox.ac.uk/) and the [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/). In the last century he was a web developer, journalist and writer, among other things.
+Rowan manages the Research Support team at IT Services. He has been involved in open tech, open source and open content for almost two decades, supporting researchers in Oxford and across the UK as part of projects like [OSS Watch](http://oss-watch.ac.uk/){:target="_blank"}, [OpenSpires](http://openspires.it.ox.ac.uk/){:target="_blank"} and the [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/){:target="_blank"}. In the last century he was a web developer, journalist and writer, among other things.

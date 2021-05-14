@@ -22,7 +22,7 @@ British Academy, and the Academy of Medical Sciences.
 In 2015 Dorothy chaired a symposium on Reproducibility in Biomedical
 Science organised by the Academy of Medical Sciences, the Wellcome
 Trust, MRC, and BBSRC, and she chairs the Advisory Board of the [UK
-Reproducibility Network](http://www.ukrn.org/). She maintains a
-popular blog, [Bishopblog](http://deevybee.blogspot.com/), which
+Reproducibility Network](http://www.ukrn.org/){:target="_blank"}. She maintains a
+popular blog, [Bishopblog](http://deevybee.blogspot.com/){:target="_blank"}, which
 features posts on a wide range of topics, including those relevant to
 reproducibility.

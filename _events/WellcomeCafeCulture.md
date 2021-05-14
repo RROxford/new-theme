@@ -9,14 +9,14 @@ ends: 2020-03-05
 
 We would like to discuss with you our current research culture and ways to improve it!
 
-We will be hosting a [Wellcome Trust Café Culture](https://wellcome.ac.uk/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion?utm_campaign=1681515_Caf%C3%A9%20Culture%20confirmation&utm_source=email&dm_i=2PXJ,101GR,7EFN5J,3SPIT,1) in **St John’s College from 5pm to 6.30pm on the 5th of March** (room tbc).
+We will be hosting a [Wellcome Trust Café Culture](https://wellcome.ac.uk/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion?utm_campaign=1681515_Caf%C3%A9%20Culture%20confirmation&utm_source=email&dm_i=2PXJ,101GR,7EFN5J,3SPIT,1){:target="_blank"} in **St John’s College from 5pm to 6.30pm on the 5th of March** (room tbc).
 
-Please sign up on this [eventbrite page](https://www.eventbrite.com/e/wellcome-trust-cafe-culture-tickets-96672505065)!
+Please sign up on this [eventbrite page](https://www.eventbrite.com/e/wellcome-trust-cafe-culture-tickets-96672505065){:target="_blank"}!
 
 This will be an opportunity to talk about the challenges we face in research culture, reflect on what a better culture would look like, and, most importantly, propose solutions for how Wellcome and other parts of the system could change.
 
 Wellcome’s previous survey and interviews with researchers revealed a lot about our working culture and the kinds of problems we face.
-[Read the findings](https://wellcome.ac.uk/reports/what-researchers-think-about-research-culture).
+[Read the findings](https://wellcome.ac.uk/reports/what-researchers-think-about-research-culture){:target="_blank"}.
 Now, we have the chance to play our part and propose solutions!
 
 Before our discussion:

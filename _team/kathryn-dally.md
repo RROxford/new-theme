@@ -14,12 +14,12 @@ work of the University's human research ethics committees. She is the
 University's lead administrative contact point for matters related to
 the integrity of research at Oxford (as required by the [UK Concordat
 to Support Research
-Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity.pdf))
+Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity.pdf){:target="_blank"})
 and, as such, she provides advice on the assessment and investigation
 of allegations of research misconduct at Oxford.
- 
+
 Kathryn is an active member of the [Russell
-Group](https://russellgroup.ac.uk/) Research Integrity Forum and of
+Group](https://russellgroup.ac.uk/){:target="_blank"} Research Integrity Forum and of
 the League of European Research Universities (LERU) [Research
 Integrity Thematic
-Group](https://www.leru.org/leru-groups/research-integrity).
+Group](https://www.leru.org/leru-groups/research-integrity){:target="_blank"}.
