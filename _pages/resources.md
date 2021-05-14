@@ -14,6 +14,8 @@ Here are links to resources relating to open and reproducible research
 in and around Oxford. Feel free to <a href="{{ '/get-involved' |
 relative_url }}">get in touch</a> to get a resource listed here!
 
+[Catalogue of Bias](https://catalogofbias.org/){:target="_blank"} is a collaborative project mapping all the biases that affect health evidence and beyond.
+
 [Codebar Oxford](https://codebar.io/){:target="_blank"} offers free
 programming workshops, with the goal to make the tech community more
 diverse.
