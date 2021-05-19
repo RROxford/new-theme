@@ -2,7 +2,7 @@
 title: Decolonising Research Interest Group
 short_title: decolonising research
 type: meetups
-image_src: reverse-globe.png
+image_src: decolonising-research-logo.png
 ---
 
 The Decolonising Research Interest Group is a fortnightly gathering to discuss and reflect on decolonising methods, and to translate discussions into meaningful action to improve scientific practice.  
