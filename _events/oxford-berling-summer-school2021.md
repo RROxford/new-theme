@@ -40,6 +40,5 @@ The summer school is organised by the BIH QUEST Center for Transforming Biomedic
 **Additional Funding**  
 “Funded from the Berlin University Alliance as part of the Excellence Strategy of the Federal Government and Countries”
 
-**Contact**
-
+**Contact**  
 Please send questions to: [malika.ihle@anthro.ox.ac.uk](mailto:malika.ihle@anthro.ox.ac.uk)
