@@ -1,5 +1,5 @@
 ---
-title: Oxford|Berlin Summer School 2021
+title: Oxford|Berlin Summer School on Open Research 2021
 short_title: oxford-berlin-summer-school2021
 type: call for application
 image_src: ox-ber.png
@@ -23,7 +23,7 @@ The lectures will be complemented by a series of interactive workshops, which pa
 
 **Application**  
 Interested participants should apply via our [registration page](https://www.bihealth.org/de/aktuelles/veranstaltungen/quest-anmeldungen/summerschool-september-2021){:target="_blank"} (stored on the Berlin Institute of Health Website). During the registration, they will be asked to briefly state their motivation (300 words) and a description of a potential project that is suitable to apply the knowledge from the summer school. The letter of motivation should contain a brief statement about how the applicant has applied or intends to apply open research practices in their current work, if any other courses were attended, and what particular challenges were encountered in their work, which would be addressed by the summer school. The project outline should give a brief overview of future or recently started research projects, in which participants would like to apply open/ reproducible research practices. Applicants with projects in any area of empirical research are encouraged to apply. If more applications are received than can be accommodated, the organising committee will select participants on the basis of the project and experience that they describe. We will favor applicants who are novices but who have already identified a need for applying the skills acquired. Following acceptance, we require a signed form from the supervisor/PI to indicate that they will support the use of transparent and reproducible practices in the applicant’s research project.
-Registration will close at the end of July.
+Registration will close on 31 July.
 
 **Costs**  
 The course is free to attend.
@@ -39,6 +39,7 @@ The summer school is organised by the BIH QUEST Center for Transforming Biomedic
 
 **Additional Funding**  
 “Funded from the Berlin University Alliance as part of the Excellence Strategy of the Federal Government and Countries”
-Contact
+
+**Contact**
 
 Please send questions to: [malika.ihle@anthro.ox.ac.uk](mailto:malika.ihle@anthro.ox.ac.uk)
