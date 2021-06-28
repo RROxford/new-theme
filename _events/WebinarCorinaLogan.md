@@ -7,6 +7,10 @@ starts: 2021-06-28
 ends: 2021-06-28
 ---
 
+*The video recording and slides for this event can be found on [our OSF repository](https://osf.io/d6sk4/){:target="_blank"}.*
+
+
+
 **[Corina Logan](http://corinalogan.com){:target="_blank"}** from the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, will be presenting the initiatives she leads and/or co leads to improve research rigor such as  [#BulliedIntoBadScience](http://bulliedintobadscience.org){:target="_blank"}, a campaign where early career researchers are working to change academic culture to adopt open research practices; and [Peer Community in Registered Reports](https://rr.peercommunityin.org/){:target="_blank"}, a free, supra-journal platform that reviews & recommends Registered Reports preprints across all research fields (see also this [Science news article](https://www.sciencemag.org/news/2021/04/fifteen-journals-outsource-peer-review-decisions){:target="_blank"} publicising its launch)  
 
 Webinar title: *How Peer Community in Registered Reports lets researchers take back control over the publishing process*
@@ -19,4 +23,4 @@ Date: **28 June 3pm BST**
 
 Registration: Please [register on eventbrite](https://www.eventbrite.com/e/how-peer-community-in-registered-reports-lets-researchers-take-back-control-tickets-158379797237){:target="_blank"} to receive the meeting link.
 
-This meeting will take place on Zoom or on Teams and will be recorded.
+This meeting will take place on Zoom and will be recorded.
