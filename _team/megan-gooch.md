@@ -6,7 +6,7 @@ position: Head of the Centre for Digital Scholarship & Digital Humanities Suppor
 image_src: megan-gooch.png
 twitter: [DH_Oxford, agneatha]
 orcid: 0000-0002-3190-0509
-groups: [Steering Group]
+groups: [Steering Group, Open Humanities]
 affiliations: [Humanities Division, Bodleian Libraries, Digital Humanities]
 
 ---
