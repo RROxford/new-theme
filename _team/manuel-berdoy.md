@@ -4,7 +4,7 @@ firstname: Manuel
 lastname: Berdoy
 position: University Animals in Scientific Procedures Act Named Training Competency Officer
 image_src: manuel-berdoy.png
-groups: [Advisory Board]
+groups: [Steering Group]
 affiliations: [Department of Biomedical Services, Medical Sciences Division]
 
 ---
