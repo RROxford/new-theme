@@ -1,7 +1,7 @@
 ---
 title: Karen Sandler from software freedom conservancy
 short_title: Sandler seminar
-type: talk
+type: presentation
 image_src: sfconservancy.png
 starts: 2020-02-05
 ends: 2020-02-05

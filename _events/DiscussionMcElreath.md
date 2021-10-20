@@ -1,7 +1,7 @@
 ---
 title: Discussion with Prof. Richard McElreath
 short_title: McElreath discussion
-type: discussion
+type: presentation and discussion
 image_src: RichardMcElreathDiscussion.PNG
 starts: 2021-03-08
 ends: 2021-03-08

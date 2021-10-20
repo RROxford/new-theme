@@ -1,7 +1,7 @@
 ---
 title: Online Book and Journal Clubs
 short_title: online book and journal clubs
-type: community call
+type: online meetups
 image_src: online-community.png
 starts: 2021 January 18
 ends: 2021 March 12

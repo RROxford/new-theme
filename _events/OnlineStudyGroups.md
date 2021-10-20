@@ -1,7 +1,7 @@
 ---
 title: Online Study Groups
 short_title: online study groups
-type: online training
+type: online meetups
 image_src: online-study-group.png
 starts: 2020 April
 ends: 2020 September
