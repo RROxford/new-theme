@@ -3,7 +3,7 @@
 firstname: Aaron
 lastname: Ceross
 position: Post-doctoral Research Associate in Regulatory Data Sciences
-image_src: blank2.jpg
+image_src: aaron-ceross.png
 orcid: 0000-0001-8863-6772
 github: across
 website: https://eng.ox.ac.uk/people/aaron-ceross/
