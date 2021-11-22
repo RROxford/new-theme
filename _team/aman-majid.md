@@ -13,4 +13,4 @@ affiliations: [Oxford Martin School, Oxford Programme for Sustainable Infrastruc
 
 ---
 
-Dr Aman Majid is a Research Associate in the [Oxford Programme for Sustainable Infrastructure Systems](https://opsis.eci.ox.ac.uk) (OPSIS) and an [Oxford Martin Fellow](https://www.oxfordmartin.ox.ac.uk/people/aman-majid/). His work focuses on energy and water infrastructure planning within the context of deep uncertainties, climate change, and sustainable development. 
+Dr Aman Majid is a Research Associate on the [Oxford Programme for Sustainable Infrastructure Systems](https://opsis.eci.ox.ac.uk) (OPSIS) and an [Oxford Martin Fellow](https://www.oxfordmartin.ox.ac.uk/people/aman-majid/). His work focuses on energy and water infrastructure planning within the context of deep uncertainties, climate change, and sustainable development. 
