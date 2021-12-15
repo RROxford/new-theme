@@ -9,7 +9,7 @@ github: sarahajones
 osf: https://osf.io/7pyuq/
 website:  https://www.oxacclab.org/team
 affiliations: [Department of Experimental Psychology, Medical Sciences Division, Queen's College]
-groups: [ReproducibiliTea, RROx Fellows]
+groups: [ReproducibiliTea, RROx Fellows, Statistical rethinking]
 ---
 
 Sarah is studying mechanisms of decision-making and metacognitive confidence judgments with Nick Yeung in the Attention and Cognitive Control Lab. She uses computational models combined with behavioral experiments to understand the integration of uncertainty sources in the decision-making process. She holds a studentship from the Oxford-MRC Doctoral Training Partnership.

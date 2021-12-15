@@ -7,7 +7,7 @@ image_src: nilo-pedrazzini.png
 twitter: nilo_pedrazzini
 orcid: 0000-0003-3757-2961
 github: npedrazzini
-groups: [RROx Fellows, Open Humanities]
+groups: [RROx Fellows, Open Humanities Seminar Series]
 affiliations: [Faculty of Linguistics Philology & Phonetics, Humanities Division, St Hugh's College]
 
 ---
