@@ -12,7 +12,7 @@ Are you using programming languages such as R or Python? Are you sometimes strug
 In this session, we will start with a brief introduction showcasing the benefits of reproducible computational environments and the most commonly used environment manager tools. We will then watch short demonstrations of these different tools from RROx community members and guest, before we discuss pros and cons of each presented tool with all attendees.
 
 
-March 2022, online
+Februar 2022, online
 
 Demonstrations (45 min):
 - [Sarah Gibson](https://2i2c.org/author/sarah-gibson/){:target="_blank"} – Introduction
@@ -25,7 +25,7 @@ Discussion (30 min)
 This session will not be recorded, but all presentations will be prerecorded and made available on the OSF repository prior to the session: [https://osf.io/xp9zn/](https://osf.io/xp9zn/){:target="_blank"}. Auto-captioning will be available in the live session.
 
 
-Registration page and date *tba*.
+**Registration page and exact date *tba*.**
 
 
 To join our community: please subscribe to our [RROx mailing list](https://web.maillist.ox.ac.uk/ox/subscribe/rroxford){:target="_blank"}. In your welcome email, you will be invited to our Slack workspace.
