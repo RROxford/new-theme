@@ -10,7 +10,7 @@ ends: 2022 March 1
 
 **Survey: [Open research at Oxford](https://oxfordxpsy.az1.qualtrics.com/jfe/form/SV_5tHA7oqau3ukeii){:target="_blank"}**
 
-You are warmly invited to share your views on open research in a survey developed by Reproducible Research Oxford.
+Calling all Oxford researchers! You are warmly invited to share your views on open research in a survey developed by Reproducible Research Oxford.
 
 Professor Patrick Grant (Pro-Vice-Chancellor, Research) commented: *“Research methodologies, the expectations of funders, and the way research is disseminated are changing. This survey aims to reveal how the University can best support researchers to understand, engage with, and lead a shift to more open research. I know researchers receive many survey invitations, but I hope you might find time to respond and help shape the training provision and other support activities across the collegiate University”*
 
