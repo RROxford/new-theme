@@ -1,5 +1,5 @@
 ---
-title: The Role of Culture in Scholarship - Openness, the Humanities, and the Sciences
+title: Openness, the Humanities, and the Sciences with Marcel Knoechelmann
 short_title: Marcel Knoechelmann
 type: presentation and discussion
 image_src: open-humanities.png
