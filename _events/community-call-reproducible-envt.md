@@ -3,8 +3,8 @@ title: Community call on reproducible computational environments
 short_title: community call reproducible envt
 type: community call
 image_src: docker-container-icon.png
-starts: 2022-03
-ends: 2022-03
+starts: 2022-02
+ends: 2022-02
 ---
 
 Are you using programming languages such as R or Python? Are you sometimes struggling to work on a project and get the same results from a different computer or when working with collaborators? Are you still searching for an optimal way to keep track of your computational environments and packages versions to make your computational environments reproducible?
