@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Reproducible Research Oxford"
 description              : "Championing reproducible research practices at the University of Oxford."
 url                      : "https://ox.ukrn.org"
-baseurl                  : 
+baseurl                  :
 repository               : "rroxford/new-theme"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -201,6 +201,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Setting up collections
 collections:
   - team
+  - past_team
   - initiatives
   - events
   - resources

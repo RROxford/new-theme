@@ -73,3 +73,21 @@ An [Advisory Board](/all_groups#AdvisoryBoard) <img src="/assets/images/ab.svg" 
 
   document.body.addEventListener('click', function(e){closeCards(e)});
 </script>
+
+
+# Past members
+
+<div class="initial-content person-card-columns" id="accordion">
+  {% assign people = site.past_team | sort_natural: 'lastname' %}
+  {% for person in people %}
+    {% unless person.retired %}
+        {% include person_card person=person %}
+    {% endunless %}
+  {% endfor %}
+
+  {% for person in people %}
+      {% if person.retired %}
+          {% include person_card person=person %}
+      {% endif %}
+    {% endfor %}
+</div>
