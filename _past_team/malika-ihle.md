@@ -2,7 +2,7 @@
 
 firstname: Malika
 lastname: Ihle
-position: Former Reproducible Research Oxford Coordinator
+position: Reproducible Research Oxford Coordinator
 image_src: malika-ihle.png
 twitter: MalikaIhle
 email: malika.ihle@anthro.ox.ac.uk
@@ -23,6 +23,8 @@ the University of Sheffield and University of Florida, she organised a symposium
 reproducible and open workflow.
 
 Malika is an Executive Committee member and the chair of the Diversity, Equity, and Inclusion committee of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology ([SORTEE](https://www.sortee.org/){:target="_blank"}) and she is the UK Reproducibility Network ([UKRN](https://www.ukrn.org/){:target="_blank"}) local network lead at the University of Oxford.
+
+She is now the Open Science Coordinator at the Ludwig-Maximilian University in Munich.
 
 Selected articles:  
 
