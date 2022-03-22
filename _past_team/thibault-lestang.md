@@ -2,7 +2,7 @@
 
 firstname: Thibault
 lastname: Lestang
-position: Research Software Engineer at Imparial Colelge London
+position: Research Software Engineer
 image_src: thibault-lestang.png
 orcid: 0000-0001-6770-2638
 github: tlestang
@@ -16,4 +16,4 @@ He aims to raise the profile of research software and software development in th
 
 Thibault is an advocate for free/libre and open source software in academia, and is involved in the setting up a [FLOSS network in Oxford](https://ox.ukrn.org/events/#Oxford-Free-Open-Source-Software){:target="_blank"}.
 
-Thibault became a [Software Sustanibility Institute Fellow](https://software.ac.uk/about/fellows/thibault-lestang){:target="_blank"} in May 2021 and moved to a RSE position at Imparial Colelge London in January 2022.
+Thibault became a [Software Sustanibility Institute Fellow](https://software.ac.uk/about/fellows/thibault-lestang){:target="_blank"} in May 2021 and moved to a RSE position at Imperial College London in January 2022.
