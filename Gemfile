@@ -30,5 +30,6 @@ gem "jekyll-archives"
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
+gem "webrick"  # webrick is no longer bundled with Ruby > 3.0
 group :jekyll_plugins do
 end
