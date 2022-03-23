@@ -10,3 +10,4 @@
 * review pages tagline, description for consistency
 * ~~change "Ambassadors listed by group OR affiliation" to "People by group OR affiliation"~~
     - Should there a link to list people by affiliation in the people.md body?
+* ~~make people's picture in lower quality so they load more quickly~~
