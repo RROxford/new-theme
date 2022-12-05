@@ -11,8 +11,8 @@ type: pages
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/workshop-people.png){: .align-center}
 
-Feel free to get in touch with the RROx Coordinator, [Malika Ihle]({{
-site.url }}{{ site.baseurl }}/people/#MalikaIhle){:target="_blank"},
+Feel free to get in touch with us via our [mailing
+list](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20rroxford),
 if you have any questions, or with ideas for relevant events or
 activities. And if you coordinate a related initiative in Oxford, do
 let us know, as we may be able to help!

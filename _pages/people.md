@@ -7,20 +7,16 @@ type: page
 ---
 ---
 
-In line with its cross-disciplinary remit, RROx is run by a [Steering
-Group](/all_groups#SteeringGroup) <img src="/assets/images/sg.svg" class="sg-icon" alt="SG"/> with representation from the four academic Divisions of the
-University of Oxford. Steering Group members span all career stages,
+In line with its cross-disciplinary remit, RROx is represented by members from the four academic Divisions of the
+University of Oxford. Group members span all career stages,
 from DPhil student to senior professor.
 
 Additionally, representation from the Bodleian Libraries provides
-liaison with relevant units in Gardens, Libraries & Museums;
-representation from Research Services provides a direct interface with
-the Research Ethics and Integrity team.
+liaison with relevant units in Gardens, Libraries & Museums. Research Services are also represented.
 
 [RROx Fellows](/all_groups#RROxFellows) are involved in RROx by leading on specific [initiatives]({{
 "/all_groups" | relative_url }}).
 
-An [Advisory Board](/all_groups#AdvisoryBoard) <img src="/assets/images/ab.svg" class="sg-icon" alt="AB"/> meets yearly with the Steering Group to monitor progress.
 
 <div class="initial-content person-card-columns" id="accordion">
   {% assign people = site.team | sort_natural: 'lastname' %}
