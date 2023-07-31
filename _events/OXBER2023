@@ -1,6 +1,6 @@
 ---
-title: Oxford|Berlin Summer School on Open Research 2021
-short_title: oxford-berlin-summer-school2021
+title: Oxford | Berlin Autumn School on Open and Responsible Research  2023
+short_title: oxford-berlin-school2023
 type: call for application
 image_src: ox-ber.png
 starts: 2023 November 01
@@ -9,36 +9,79 @@ ends: 2023 December 01
 The Oxford Berlin Summer School on Open Research 23 will be conducted in person on XX
 
 **Background**
-Transparency and reproducibility of research methods and results are important hallmarks of high quality in all areas, from biomedical to social and physical sciences. In the last few years, many novel approaches, tools, and technologies have emerged that allow for a comprehensive representation of the research process that goes far beyond descriptions of research methods and results as found in traditional journal articles. Open research practices have the potential to revolutionise the way research methods and results are communicated, and to facilitate research collaborations and sharing of research outputs in an unprecedented manner. However, adopting these practices requires knowledge and skills that are not normally taught in undergraduate or graduate degrees. To close this gap, we offer a four-day summer school to guide early career researchers (PhD students and postdocs) towards an open, transparent, and reproducible research workflow. These topics will be embedded in a more general curriculum on research ethics and meta-research.
+Transparency and reproducibility of methods and results are important hallmarks of high-quality research in all areas, from biomedical to social and physical sciences, and in the humanities. In the last few years, many novel approaches, tools, and technologies have emerged that allow for a comprehensive representation of the research process that goes far beyond descriptions of research methods and results, as found in traditional journal articles. Open research practices have the potential to revolutionise the way research methods and results are communicated, and to facilitate research collaborations and the sharing of research outputs, and to do so in an unprecedented manner. However, adopting these practices requires knowledge and skills that are not routinely taught either in undergraduate or graduate degrees. To close this gap, we offer a five-day autumn school aimed primarily at advanced doctoral candidates and those in recent receipt of their doctoral degree. Our aim is to help foster an open, transparent, and reproducible research landscape. These topics will be embedded in a more general curriculum on research ethics and meta-research. This year, there will be a special focus on the interface between open research practices and research culture, as well as on leadership in open research practices.
 
 **Program**
-The four-day summer school will consist of a series of lectures that cover the following topics:
-- Biases in research
-- Reproducibility
-- Best practices for sharing publications, data, and code
-- Meta-research
-- Ethical conduct of research
+The five-day autumn school will consist of a series of lectures that cover a range of topics including (amongst others):
 
-The lectures will be complemented by a series of interactive workshops, which participants can choose from based on their needs (e.g. introduction to R and Python, reproducible workflows, version control in Git and Github, data management, and preregistration).
+  - Biases in research
 
-**Application**
-Interested participants should apply via our [registration page](https://www.bihealth.org/de/aktuelles/veranstaltungen/quest-anmeldungen/summerschool-september-2021){:target="_blank"} (stored on the Berlin Institute of Health Website). During the registration, they will be asked to briefly state their motivation (300 words) and a description of a potential project that is suitable to apply the knowledge from the summer school. The letter of motivation should contain a brief statement about how the applicant has applied or intends to apply open research practices in their current work, if any other courses were attended, and what particular challenges were encountered in their work, which would be addressed by the summer school. The project outline should give a brief overview of future or recently started research projects, in which participants would like to apply open/ reproducible research practices. Applicants with projects in any area of empirical research are encouraged to apply. If more applications are received than can be accommodated, the organising committee will select participants on the basis of the project and experience that they describe. We will favor applicants who are novices but who have already identified a need for applying the skills acquired. Following acceptance, we require a signed form from the supervisor/PI to indicate that they will support the use of transparent and reproducible practices in the applicant’s research project.
-Registration will close on 31 July.
+  - Ideas behind and tools for creating reproducible research pipelines
+
+  - Meta-research
+
+  - Responsible research
+
+  - Leadership and advocacy for open research practices
+
+The lectures will be complemented by a series of interactive workshops. The workshops will expand on the topics covered by the lectures, and there will also be opportunities to shape the structure and content of the workshops to best support participants’ research interests and their needs for current/future research projects. participants can choose from based on their needs (e.g. introduction to R and Python, reproducible workflows, version control in Git and Github, data management, and preregistration).
+
+The full programme will be finalised and shared closer to the date. You can consult previous programmes and materials at the following links:
+  - [2022 programme](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/oxford-berlin-summer-school-on-open-and-responsible-research){:target="_blank"} (5th Oxford | Berlin Summer School)
+  - [2021](https://osf.io/8q59y/){:target="_blank"} repository (4th Oxford | Berlin Summer School)
+  - [2020](https://osf.io/9g8n4/){:target="_blank"} repository (3rd Oxford | Berlin Summer School)
+
+**Format**
+The 2023 autumn school will take place in Oxford, with further details to be shared closer to the start date.
+
+We are adopting a hybrid approach to maximise the autumn school’s reach. All lectures will be live-streamed and available to watch on-demand afterwards. The workshops will be in-person only, and there are a limited number of spaces. Applications are now open to secure a spot (see below).
+
+To promote the adoption of open research practices, we aim to make all training materials freely available to reuse under a Creative Commons license. Further details will be provided in due course.
+
+**Register to attend the lectures remotely**
+Everyone is welcome to register to attend the autumn school lectures remotely. Registration to attend remotely will open closer to the time.
+
+
+**Apply to attend the Autumn School in person**
+Applications are open, please click [here](https://forms.office.com/e/niPK3XGaHv){:target="_blank"}) for the application form.
+
+Applicants will be asked to briefly state their motivation (300 words) and to provide the outline of a potential project that is suitable for putting in practice the knowledge and skills acquired at the autumn school. The letter of motivation should contain a brief statement about how the applicant has applied or intends to apply open research practices in their current or future work, if any other related training was attended, and what particular challenges were encountered in their work which would be addressed by the autumn school. The project outline should give a brief overview of future or recently started research projects, in which participants would like to apply open/reproducible research practices. Applicants with projects in any area of research are encouraged to apply.
+
+Selection criteria:
+We warmly encourage applications from researchers:
+  (i)	working in disciplines traditionally underrepresented in open research practices,
+  (ii)	who identify with groups that have been historically excluded from research (e.g. women, people of colour and/or from ethnic minority backgrounds, people with disabilities, members of the LGBTQ+ community), and/or
+  (iii)	who have followed non-traditional career paths.
+
+If more applications are received than can be accommodated, the organising committee will select participants according to the following criteria:
+  a)	Career stage, motivation, and experience. We will favour applicants who are novices but who have already identified a need for applying the knowledge and skills they will acquire at the autumn school.
+  b)	Representation across disciplines (i.e., balance between disciplines with more established training resources and communities of practice in open research, and disciplines where they are less established).
+  c)	A commitment to diversity, equity, inclusion, and accessibility in the promotion of open research practices, to support the school’s focus on research culture and leadership.
+
+Following acceptance, we will require a signed form from the supervisor/line-manager/Principal Investigator to indicate that they will support the use of transparent and reproducible practices in the applicant’s research project(s).
+
 
 **Costs**
-The course is free to attend.
+The course is free to attend. Lunch and refreshments will be provided to participants free of charge.
+We have a limited number of travel stipends aimed at participants who would not otherwise be able to afford to attend the autumn school (we endeavour to cover at least 80% of costs). The remaining funds will be allocated on a case-by-case basis.
+Please indicate whether you would like to apply for such a stipend in your application. You will be asked to provide a brief statement of no more than 100-150 words outlining why you need the stipend and your expected expenses to attend the autumn school.
+We encourage participants to seek travel funding from their institutions where possible, so as to maximise the number of attendees we are able to support.
+For Oxford University applicants, we encourage you to discuss attending the autumn school with your supervisor or Principal Investigator in advance, and to seek any funds required from your Department, Division, and/or from your college.
 
-**Venue**
-If the situation allows, the summer school will be conducted in a hybrid format, that is with local in person meetings organised at Oxford and in Berlin, and with the possibility to attend online. If lockdowns are in place, the summer school will run entirely online.
+**Deadlines for applying to the Autumn school**
+The first deadline to apply to attend the autumn school in person is the *31st of August 2023*. Apply by this date if you wish to be considered for a travel stipend and if you require a visa to travel to the UK.
+We will aim to communicate the outcome of stipend applications and those with visa requirements in early September to allow enough time to make travel arrangements.
+All remaining applications will be considered after the final deadline of the *30th of September 2023*. There is no guarantee that any travel funds will be available at this stage. All final decisions will be communicated in early October.
+
+**Certificates**
+In-person participants will receive a certificate of attendance.
+
+
+**Travel and accommodation information**
+We have a limited number of rooms available for stipend-holders. We advise all other participants to book accommodation early.
 
 **Organisers**
-The summer school is organised by the BIH QUEST Center for Transforming Biomedical Research, Berlin Institute of Health and Reproducible Research Oxford, University of Oxford.
+The autumn school is organised by the University of Oxford in collaboration with the Berlin Institute of Health at Charité (BIH) QUEST Centre for Responsible Research, and Oxford Brookes University.
 
-**Dates**
-20.-23. September
-
-**Additional Funding**
-“Funded from the Berlin University Alliance as part of the Excellence Strategy of the Federal Government and Countries”
-
-**Contact**
-Please send questions to: [malika.ihle@anthro.ox.ac.uk](mailto:malika.ihle@anthro.ox.ac.uk)
+** Funding**
+The autumn school is generously supported with funds from the Enhancing Research Culture Fund from Research England  ,the BIH Quest Centre for Responsible Research, and Oxford Brookes University.
