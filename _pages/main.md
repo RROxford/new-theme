@@ -31,6 +31,10 @@ body {
 
 <div class="container">
 
+<p> <h1> Please note this webpage is no longer updated. Please go to the new
+website at <a href="https://rr.ox.ac.uk/">https://rr.ox.ac.uk/</a> for the most
+recent information.</h1> </p>
+
   <p>Welcome to Reproducible Research Oxford (RROx for short,
   pronounced "rocks")!</p>
 
