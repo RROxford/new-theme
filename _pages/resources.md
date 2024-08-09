@@ -9,6 +9,9 @@ collection: resources
 ---
 
 ---
+<p> <h2> Please note this webpage is no longer updated. Please go to the new
+website at <a href="https://rr.ox.ac.uk/">https://rr.ox.ac.uk/</a> for the most
+recent information.</h2> </p>
 
 Here are links to resources relating to open and reproducible research
 in and around Oxford. Feel free to <a href="{{ '/get-involved' |

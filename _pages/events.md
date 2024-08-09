@@ -7,6 +7,10 @@ permalink: /events/
 ---
 ---
 
+<p> <h2> Please note this webpage is no longer updated. Please go to the new
+website at <a href="https://rr.ox.ac.uk/">https://rr.ox.ac.uk/</a> for the most
+recent information.</h2> </p>
+
 # Events
 
 Below is a list of reproducibility-related events happening in or around Oxford. At the bottom of this page you'll also find some ongoing [initiatives](#initiatives), as well as a list of [past events](#pastEvents).

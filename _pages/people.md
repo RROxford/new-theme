@@ -7,6 +7,10 @@ type: page
 ---
 ---
 
+<p> <h2> Please note this webpage is no longer updated. Please go to the new
+website at <a href="https://rr.ox.ac.uk/">https://rr.ox.ac.uk/</a> for the most
+recent information.</h2> </p>
+
 In line with its cross-disciplinary remit, RROx is represented by members from the four academic Divisions of the
 University of Oxford. Group members span all career stages,
 from DPhil student to senior professor.

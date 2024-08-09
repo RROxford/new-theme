@@ -11,6 +11,10 @@ type: pages
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/workshop-people.png){: .align-center}
 
+<p> <h2> Please note this webpage is no longer updated. Please go to the new
+website at <a href="https://rr.ox.ac.uk/">https://rr.ox.ac.uk/</a> for the most
+recent information.</h2> </p>
+
 Feel free to get in touch with us via our [mailing
 list](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20rroxford),
 if you have any questions, or with ideas for relevant events or
